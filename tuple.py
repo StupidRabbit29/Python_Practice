@@ -1,0 +1,11 @@
+t1=('a', 'b', 'c')
+print(t1)
+print(t1[1])
+t2=()
+print(len(t2))
+
+t3=(1,)
+print(t3[0])
+print(t3)
+t4=(1)
+print(t4)
