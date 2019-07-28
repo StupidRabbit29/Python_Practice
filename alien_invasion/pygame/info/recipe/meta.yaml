@@ -1,0 +1,28 @@
+# This file created by conda-build 3.17.8
+# meta.yaml template originally from:
+# F:\heap\conda\pygame, last modified Tue Apr  9 16:52:08 2019
+# ------------------------------------------------
+
+package:
+    name: pygame
+    version: 1.9.5
+build:
+    string: py37_0
+requirements:
+    build:
+        - ca-certificates 2019.1.23 0
+        - certifi 2019.3.9 py37_0
+        - openssl 1.1.1b he774522_1
+        - pip 19.0.3 py37_0
+        - python 3.7.3 h8c8aaf0_0
+        - setuptools 40.8.0 py37_0
+        - sqlite 3.27.2 he774522_0
+        - vc 14.1 h0510ff6_4
+        - vs2015_runtime 14.15.26706 h3a45250_0
+        - wheel 0.33.1 py37_0
+        - wincertstore 0.2 py37_0
+    run:
+        - python >=3.7,<3.8.0a0
+extra:
+    copy_test_source_files: true
+    final: true

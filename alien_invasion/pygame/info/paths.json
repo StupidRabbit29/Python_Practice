@@ -1,0 +1,2981 @@
+{
+  "paths": [
+    {
+      "_path": "Lib/site-packages/pygame-1.9.5.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+      "size_in_bytes": 4
+    },
+    {
+      "_path": "Lib/site-packages/pygame-1.9.5.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "22987f965f842abc390b5e1f2df98e684fa27f330ed395a6e31bbc3dfe1fe038",
+      "size_in_bytes": 444
+    },
+    {
+      "_path": "Lib/site-packages/pygame-1.9.5.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "e264734f2c6b2078c16ce7957a17b4b5ff8bab65d6c720f181645556b47f9a78",
+      "size_in_bytes": 39959
+    },
+    {
+      "_path": "Lib/site-packages/pygame-1.9.5.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "40e99bf95b90270b99ec0bff436f37f4f0afeaab27e9118722bb7a6347ac1438",
+      "size_in_bytes": 106
+    },
+    {
+      "_path": "Lib/site-packages/pygame-1.9.5.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "0015dd14620013683d9b654ecd03da2daf75eebe9712ee9df7a46a233bc0582b",
+      "size_in_bytes": 7
+    },
+    {
+      "_path": "Lib/site-packages/pygame/SDL.dll",
+      "path_type": "hardlink",
+      "sha256": "8c77596297e3638f1e4ffbdd7590d2f42921dfaf131454a6cb5edd0da9ca7daa",
+      "size_in_bytes": 454656
+    },
+    {
+      "_path": "Lib/site-packages/pygame/SDL_image.dll",
+      "path_type": "hardlink",
+      "sha256": "553be318d77c300cac65f2f250e7abdb1d231bf4852368fe3a4dbcbd21d9f993",
+      "size_in_bytes": 70144
+    },
+    {
+      "_path": "Lib/site-packages/pygame/SDL_mixer.dll",
+      "path_type": "hardlink",
+      "sha256": "1430170f9ebf8eec5d1a106d990778d4a8d6adeb00b56585f1ef972e6e025c5e",
+      "size_in_bytes": 674304
+    },
+    {
+      "_path": "Lib/site-packages/pygame/SDL_ttf.dll",
+      "path_type": "hardlink",
+      "sha256": "2726355b8c69a759ec91f31995c5f77a6147d573a59241065c5336b6b6baff94",
+      "size_in_bytes": 38912
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "7a8c049033ff868c876c47645640e557577548eb12498c7bae6598b1e35688e4",
+      "size_in_bytes": 11582
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "d5b2f0f75e032701725071c95f5e5ca342eba653963cbfdfb6bf65cbae8e6e46",
+      "size_in_bytes": 8213
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/_camera_opencv_highgui.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c935657cbd9dcb0539221e91bf087c360d3234e542e0d7fcd1561524be015580",
+      "size_in_bytes": 2565
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/_camera_vidcapture.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "1917c0f5bcb3290ebdadb2e1ddbe3c9f2c8ddd3c91f1c00a50827d4c81552672",
+      "size_in_bytes": 4276
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/_dummybackend.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "b99cd50824a6ac20209e577df953869074662623e8f3be6d44f355372864cf8f",
+      "size_in_bytes": 1282
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/_numpysndarray.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "5d195db1143e39c45c0216b5645408af549a3314b0211e6c8ab86b0687c88499",
+      "size_in_bytes": 2038
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/_numpysurfarray.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "7363c0e79001d243cdda59f96b10698099e5c5841a4a912af4c11c3c7e18073a",
+      "size_in_bytes": 12374
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/camera.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c275787847651de0b6c37c4ba7660a78ec5f10b9344646321d22b8fea77e0fb8",
+      "size_in_bytes": 2755
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/colordict.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "9f9edf06553312b176439ede00406c62d13631edea140b243357a1be48a668ed",
+      "size_in_bytes": 21301
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/compat.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3a4440182545bb6fc3fbf68140c6d1763913503d218edb9e4d8565985b8d1daa",
+      "size_in_bytes": 2213
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/cursors.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "26cfd51ebd5049283d16d07747031b1f7175e6484ead56507f834f943202ea38",
+      "size_in_bytes": 7862
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/draw_py.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c68146b1d4e87ab5b98e363f07ac3f056fcb34e1c26e3321e29c594b1d6650c7",
+      "size_in_bytes": 11827
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/freetype.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "580953dc67a745e32b2af5b101ecd8dcb343a3fb58c4899ab26fd5fd78438ba3",
+      "size_in_bytes": 2145
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/ftfont.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "d4ca9a5424408f9b6eeeef0161d8a5d19fe23bfb7b08fad422ade7b56dc3b29d",
+      "size_in_bytes": 6610
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/locals.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "963132ed0ae5799c83e2b84d1453a004f930d825726095fd4fc306502be859cc",
+      "size_in_bytes": 351
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/macosx.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "61745308ef0dafbe086d3bef0152ae4bc86119c5cc735641feadcc524a9bb946",
+      "size_in_bytes": 830
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/midi.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "523bc97ead5298424b795cc967807a812ce13abbcd4d1194c28a27a29ce63dc4",
+      "size_in_bytes": 22792
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/pkgdata.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "7a2ccb828518aeef5b3bda498c223a342af5ff52a55b681bb1118500c1635f16",
+      "size_in_bytes": 2374
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/sndarray.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "a8939017ef13cdd1f3c47d7908a38fe33a08da342df08b7754583c091ebb3ce6",
+      "size_in_bytes": 2965
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/sprite.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "8e8c3ce6064355ce43e334b2bb6beb993d0aa03a6bfa0fbf6635c3dd7459c63d",
+      "size_in_bytes": 46025
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/surfarray.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "7e99467ea0994f79452132481d686a3f682892d25083acdc05a8732a218a4170",
+      "size_in_bytes": 10171
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/sysfont.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "fdea7d93cf8705802c0d1064cc703d56aaae411543fdb86382ce5cd6bb827044",
+      "size_in_bytes": 8715
+    },
+    {
+      "_path": "Lib/site-packages/pygame/__pycache__/version.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3e74da31b50369f6fa06bc779305ae4ac7acb114a0cdf9fdc8968cf56dc00377",
+      "size_in_bytes": 599
+    },
+    {
+      "_path": "Lib/site-packages/pygame/_camera_opencv_highgui.py",
+      "path_type": "hardlink",
+      "sha256": "d01c5529135554a57a0dee058fb6e31d8eb166014f0fb0c6e375fcb09ed80bda",
+      "size_in_bytes": 2230
+    },
+    {
+      "_path": "Lib/site-packages/pygame/_camera_vidcapture.py",
+      "path_type": "hardlink",
+      "sha256": "dcc495b1b18d8bb8d12d1f68e0cc242fb2aac337eb6f83d8e15a1b97f2038c85",
+      "size_in_bytes": 3739
+    },
+    {
+      "_path": "Lib/site-packages/pygame/_dummybackend.py",
+      "path_type": "hardlink",
+      "sha256": "708b7cf240613f382c7adf95909d43ddb1b5d29be55cb7afa6a460ac785b7aea",
+      "size_in_bytes": 770
+    },
+    {
+      "_path": "Lib/site-packages/pygame/_freetype.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "cc88301b350aa6300f86c5763fbe0908051381a47558661ae3a2dd9c0e303f8e",
+      "size_in_bytes": 82432
+    },
+    {
+      "_path": "Lib/site-packages/pygame/_numpysndarray.py",
+      "path_type": "hardlink",
+      "sha256": "e7c2081663a22866d84adf3288a486186ced72683768929c3e5aa108cbd36306",
+      "size_in_bytes": 2616
+    },
+    {
+      "_path": "Lib/site-packages/pygame/_numpysurfarray.py",
+      "path_type": "hardlink",
+      "sha256": "3982294d8de60b3f3b735205f885e22eb4e67949832a7ae98f6abce2cb16e5dd",
+      "size_in_bytes": 12999
+    },
+    {
+      "_path": "Lib/site-packages/pygame/base.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "4f50c23f304f970f05f1afc689b06ac784620a794721319e3bc40ebd88e87270",
+      "size_in_bytes": 31744
+    },
+    {
+      "_path": "Lib/site-packages/pygame/bufferproxy.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "f6ba128742ef0d11d6311105399a16ed170d81ce6245103b1f40b317d16fd6e7",
+      "size_in_bytes": 18944
+    },
+    {
+      "_path": "Lib/site-packages/pygame/camera.py",
+      "path_type": "hardlink",
+      "sha256": "628a77ffe21627315a26002ff8d88094b2a92e42bc82e0046e919585d43821d2",
+      "size_in_bytes": 2871
+    },
+    {
+      "_path": "Lib/site-packages/pygame/cdrom.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "9c911edaf7c3c8eb3d2aed19e50eed27a048eb56ad97a3d8582b9f90f617ec35",
+      "size_in_bytes": 22016
+    },
+    {
+      "_path": "Lib/site-packages/pygame/color.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "f8904551c591d15c8e2e4ed4218c2dcb035e8d7f42cef8949692b6009f56f6b4",
+      "size_in_bytes": 32768
+    },
+    {
+      "_path": "Lib/site-packages/pygame/colordict.py",
+      "path_type": "hardlink",
+      "sha256": "dd7bb9d13082c51762fae7bc569f5804642998a3acbf5ad4f5b3b17f7929911e",
+      "size_in_bytes": 24175
+    },
+    {
+      "_path": "Lib/site-packages/pygame/compat.py",
+      "path_type": "hardlink",
+      "sha256": "c9b48dff81db356bc327aaae0939250f58404f3f0bc8dd1b21e473376c93a83f",
+      "size_in_bytes": 3113
+    },
+    {
+      "_path": "Lib/site-packages/pygame/constants.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "b43d2f52a071076c04e08b7cf08a0c4d490cf3090f25a5e9a362d96abe885b42",
+      "size_in_bytes": 22528
+    },
+    {
+      "_path": "Lib/site-packages/pygame/cursors.py",
+      "path_type": "hardlink",
+      "sha256": "85a32f678376902ac7ae6157635eb543fb43b7ccd568a156fc93638e2d779fed",
+      "size_in_bytes": 10043
+    },
+    {
+      "_path": "Lib/site-packages/pygame/display.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "bdb5f1b285d0bd95703160bf07506b73698b84a7b8bf679567a6f5a053fac1ed",
+      "size_in_bytes": 31744
+    },
+    {
+      "_path": "Lib/site-packages/pygame/docs/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "dbdbf0ba46ffeb224f5847bae90650ca7b75d07be0ad806618fdaf5a6ecdb7fc",
+      "size_in_bytes": 287
+    },
+    {
+      "_path": "Lib/site-packages/pygame/docs/__main__.py",
+      "path_type": "hardlink",
+      "sha256": "e6bf1c47fcb6eb529ffd00d3c66c3d8427456950467b15d5e7e3ab40b6d235a7",
+      "size_in_bytes": 750
+    },
+    {
+      "_path": "Lib/site-packages/pygame/docs/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c4cdb93bcf8f6ee589e2d273bb5216d58cd011da94823f26e5336a37ca1a8701",
+      "size_in_bytes": 314
+    },
+    {
+      "_path": "Lib/site-packages/pygame/docs/__pycache__/__main__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "b0b13b0e1fbed5ac2bb9fa25787d494382b68de65838d13dce9d612c9461f97e",
+      "size_in_bytes": 843
+    },
+    {
+      "_path": "Lib/site-packages/pygame/docs/logos.html",
+      "path_type": "hardlink",
+      "sha256": "02fe160d5c205f4c5f84d27e189da11404479998838bfcafd161a4f052b3bc92",
+      "size_in_bytes": 1604
+    },
+    {
+      "_path": "Lib/site-packages/pygame/docs/pygame_logo.gif",
+      "path_type": "hardlink",
+      "sha256": "5d366ecacb3e9e269086d1b0efcbcff4c426a881ffc8b82ae9c26ab5bf2146d2",
+      "size_in_bytes": 25116
+    },
+    {
+      "_path": "Lib/site-packages/pygame/docs/pygame_powered.gif",
+      "path_type": "hardlink",
+      "sha256": "24e72ead9f40a703f1e36d1a88838f160a0a147921a5029b965d30f7eaa1be76",
+      "size_in_bytes": 10171
+    },
+    {
+      "_path": "Lib/site-packages/pygame/docs/pygame_small.gif",
+      "path_type": "hardlink",
+      "sha256": "393e64e67e8e9e86ad347f477d6113171f3c0abdcfad4ce467266b8ad06f88e3",
+      "size_in_bytes": 10286
+    },
+    {
+      "_path": "Lib/site-packages/pygame/docs/pygame_tiny.gif",
+      "path_type": "hardlink",
+      "sha256": "bf1ec4461bd2a63e75c29feabbe8c8480810afc13abf12b8ff7239f3ea12466d",
+      "size_in_bytes": 5485
+    },
+    {
+      "_path": "Lib/site-packages/pygame/docs/ref/docscomments.json",
+      "path_type": "hardlink",
+      "sha256": "30dded30894c7821b81b7a80dc9e7666e47fbe47f9df92a53ee468b7da49bbcb",
+      "size_in_bytes": 445603
+    },
+    {
+      "_path": "Lib/site-packages/pygame/draw.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "597b851c7d6b46e28b25b4279773a7bdbaa1160e2bc9dfe6920995a408a34680",
+      "size_in_bytes": 39424
+    },
+    {
+      "_path": "Lib/site-packages/pygame/draw_py.py",
+      "path_type": "hardlink",
+      "sha256": "7d0a2832c3b6e7d2fe679e994c95e589ac725413ca2c452cac4b08aeb9850403",
+      "size_in_bytes": 17943
+    },
+    {
+      "_path": "Lib/site-packages/pygame/event.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "f78fb9734f96b120888a357eb93d1608775f483dded35496e77bdbfd20101dcd",
+      "size_in_bytes": 28672
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "5e8b32c0eb608ef93169b4921500a73c2b72386f1b7e7e3a2c84b21b99468c5c",
+      "size_in_bytes": 132
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/aacircle.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "ca0883e178823d2d90f7f7026a3188396a5d3f4de5af64ea07d9647d85ff975f",
+      "size_in_bytes": 949
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/aliens.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "893ef3ee061c542b58385976420816137c42c2b991cb805bcfccb6d49b2bf8b6",
+      "size_in_bytes": 8641
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/arraydemo.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "74dce9adf23fb95125a9560ba9211f28619fc4ba6f68086fa2a046c8257b91ea",
+      "size_in_bytes": 2728
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/audiocapture.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "bd2fffe3cccdfd5b1018a7057ca80fd95c180d430eda0052e22c3761c908d560",
+      "size_in_bytes": 1413
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/blend_fill.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "312b65ef81d721cb05797bc6622b5b3064a8a74dde9e86c54265cdd462d6df6a",
+      "size_in_bytes": 2111
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/blit_blends.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "0e9f74736298f66cdfd9c29a7fa9e138e88bc4c80ce39dd861a030796b71c7b0",
+      "size_in_bytes": 3302
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/camera.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "09615a71c5f71744429c2e1d07f60a63b5496956a0dc152efdcfe6d26223fecb",
+      "size_in_bytes": 2045
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/chimp.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "262a5ddd3ef93ee076f890cfe34ba019748dde5f55cdf0b8f10a70a5da6c5bbb",
+      "size_in_bytes": 5825
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/cursors.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "8514b41430170441113f4afc8b8e761abf55f07caff6956911e440dd01409261",
+      "size_in_bytes": 2588
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/dropevent.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "a7a4b0ee7e16fc423c80eeb9833775679ab02f762ccaad3a5d13f87995eb86ad",
+      "size_in_bytes": 1435
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/eventlist.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3205e91068582cbd2ac1bd96f36f47638c925916bf9e88098cbc44efab170bfa",
+      "size_in_bytes": 3217
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/fastevents.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "4f87504e2de03a8407e63c5ff8d74cb3f118dfcf9d379319eb95b7a19e903d8e",
+      "size_in_bytes": 2214
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/fonty.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "e57ec7c789ea3acb9b84ae3036d81d6cf336537a66fafc663a914203714053d5",
+      "size_in_bytes": 1958
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/freetype_misc.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "80517b0a4fad6a6ca27084fb71abc9f65f3e357e6931708d5874d1b8e5db26f5",
+      "size_in_bytes": 2536
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/glcube.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "e16e1cec72668af15bfb77de020d6a3018f0f5f8e0c3821fcee47a3085442794",
+      "size_in_bytes": 2987
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/headless_no_windows_needed.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "5f2f4f9cf7db749c8a95a64f31baa9d2dad05fb04e636fa001201beea63ae655",
+      "size_in_bytes": 1362
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/liquid.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "86999b1c61ac3cddd080d0407465573f0f7933c90c5669fca78dc2dd54d4d749",
+      "size_in_bytes": 1770
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/mask.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "1415519dde2991d39e6da1e60e811021976a557fb9489050d6a8eb7c405c4453",
+      "size_in_bytes": 5334
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/midi.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "baec2ecaac9044a5dd531da33c29f9845975c2ad93f400a4f52f7f5421825e09",
+      "size_in_bytes": 19879
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/moveit.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "387e80bb709a72a80a5efb69e689078b371a5754c070d3f6c504471b46b02be6",
+      "size_in_bytes": 1949
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/oldalien.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "ded781b93db7ffe8b0ac127a469796dd7ca4e7fb64681dac4728a1504e64a9bb",
+      "size_in_bytes": 6496
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/overlay.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c5b3e7376321381faf0603476d4e6e2e9306ad33dd8ee3b8c5d7cedf5f15160b",
+      "size_in_bytes": 1480
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/pixelarray.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "d8d3727c32374a2fbe06794b07decc37f9e6205bc26cd3513c8e1f0fd058170f",
+      "size_in_bytes": 2148
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/playmus.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "f611e4d7c8cc75a598d9b9367f28d8a47dc12b8bb1b835eea90eda87e3cb0537",
+      "size_in_bytes": 3776
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/prevent_display_stretching.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "d4bb5741a32bfbee14884d3a5e895bdf2c68808bee80b40c0f2b3a4382a87acf",
+      "size_in_bytes": 2120
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/scaletest.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "b781cb57c881f0f382d046750426d0e8215e7ca3e9c2333d283fa249f5c3ca3e",
+      "size_in_bytes": 3155
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/scrap_clipboard.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "8b72004ae45e1ce42af00e7d62b2795e54aabfaad0f0efc74b774d0b8aa886c9",
+      "size_in_bytes": 2326
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/scroll.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "ecbfc10ffaa54adcc13d138a89e8e7fe3a5a15a036af6436a07ab851103e6a25",
+      "size_in_bytes": 4402
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/sound.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "ee68f263daa0121dbc67c0eacad73a19b70a4c50a9e09fa6a0a8acbac6cf9ac1",
+      "size_in_bytes": 1316
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/sound_array_demos.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3a56c4fcb7534a4e8199a2716d41ecbc7004d5953fca27a17e86a29ad794838a",
+      "size_in_bytes": 4839
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/stars.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "53a04c64c3b21d810962959335b4e0be8e9ace07eef5c57db6d55109ee919026",
+      "size_in_bytes": 2527
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/testsprite.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "5903580bead9ff0e25245fbffa6ec014f7f65756feca223bc91e063b421f53f8",
+      "size_in_bytes": 4581
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/textinput.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "03e40ae3ab2718acf56acbac3d005b2020e9cb54c45832d3538c7cb5ddfd6218",
+      "size_in_bytes": 2924
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/vgrade.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "b5ab36cd4cf918c6c620acc6ed53692fab22e2401a1643cd2febd43c2e8e94df",
+      "size_in_bytes": 3240
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/__pycache__/video.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "74c3e5aa9ddfc43a3898890257cef36579343f3bcc62f0b361dbab705f6280b0",
+      "size_in_bytes": 2354
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/aacircle.py",
+      "path_type": "hardlink",
+      "sha256": "9954eadf4f366a3615efeba260609d8ca95d34f499221d72f7cfeca850c9de0f",
+      "size_in_bytes": 909
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/aliens.py",
+      "path_type": "hardlink",
+      "sha256": "75fe6cc27f40a4594ea2adc695ba3d57b9a75262c28b1c1cf5b8269e5f2dc47a",
+      "size_in_bytes": 10720
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/arraydemo.py",
+      "path_type": "hardlink",
+      "sha256": "51a216b2eb2a98484a83d979db4a6ea60c211a55ec37f573d8793ccbf31d89ff",
+      "size_in_bytes": 3721
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/audiocapture.py",
+      "path_type": "hardlink",
+      "sha256": "379952c384d5d063553d6e2b62cdd9cfe5bfa3ecd2fe5e152435cfe08bd88514",
+      "size_in_bytes": 1275
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/blend_fill.py",
+      "path_type": "hardlink",
+      "sha256": "0d0e94b15eaac0ad8fc2e16e0e17539e55012dd74ec2c0ff968186fb11a2d626",
+      "size_in_bytes": 3105
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/blit_blends.py",
+      "path_type": "hardlink",
+      "sha256": "ae863011433a6ad13c9b117467f147265bd567ad4b655820dab32389f994bdfd",
+      "size_in_bytes": 5908
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/camera.py",
+      "path_type": "hardlink",
+      "sha256": "532280c121f057dfc6c4c2f29b814ee8ef167f236e8b2e716f6bbe7b0b59c25e",
+      "size_in_bytes": 2756
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/chimp.py",
+      "path_type": "hardlink",
+      "sha256": "d4a9656f13c278b30fdc686a5313dca57053415992c3199b553ab2256c552b01",
+      "size_in_bytes": 6016
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/cursors.py",
+      "path_type": "hardlink",
+      "sha256": "9031bd16ff89fb9cfb8c59aba42355a2391a8a18134194b23cee463a10fcaa20",
+      "size_in_bytes": 3062
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/alien1.gif",
+      "path_type": "hardlink",
+      "sha256": "f16bdea35ce92d56850ad6084e6fd2a18aa3cbc2fe4c3b9a64e70d6bc3acaacc",
+      "size_in_bytes": 3826
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/alien1.jpg",
+      "path_type": "hardlink",
+      "sha256": "1ce8d78e65b839fb2efde9fd58dae4b88a7f0c2c2ea5770507462dfdca95f6b0",
+      "size_in_bytes": 3103
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/alien1.png",
+      "path_type": "hardlink",
+      "sha256": "7de9b32ecb15ee81af4f74b6b72be2caaeea3b7d907e1043b4c391dc434108bb",
+      "size_in_bytes": 3522
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/alien2.gif",
+      "path_type": "hardlink",
+      "sha256": "d0c3e9558cef8c0102cb4a5ded8445282133cc860328426def4adb8e52db4d93",
+      "size_in_bytes": 3834
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/alien2.png",
+      "path_type": "hardlink",
+      "sha256": "14a1980c8d85041475679e812e7df9ecf35f877f8cdfc8002694902fc0692986",
+      "size_in_bytes": 3526
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/alien3.gif",
+      "path_type": "hardlink",
+      "sha256": "6c50911993903da69d08a21cfad96aa148c776c8b923347413ed928e93c4be60",
+      "size_in_bytes": 3829
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/alien3.png",
+      "path_type": "hardlink",
+      "sha256": "6b9d536fd13822fa08086cd00a11eae7544a55024b7f518e0847aa039c987e79",
+      "size_in_bytes": 3518
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/arraydemo.bmp",
+      "path_type": "hardlink",
+      "sha256": "c4ce3e9ff85109015995fc307532ba79a0707b271473ceb74e04856d6a7775b0",
+      "size_in_bytes": 76854
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/asprite.bmp",
+      "path_type": "hardlink",
+      "sha256": "f7b5cca4aabd94ba4cbaff14bde09ff1424403185e0613d48c77cc450064531e",
+      "size_in_bytes": 578
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/background.gif",
+      "path_type": "hardlink",
+      "sha256": "fb7919c2df7d3055016c1a3e907bcf65756516b481df85d5350596c5f1dbf7bd",
+      "size_in_bytes": 9133
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/blue.mpg",
+      "path_type": "hardlink",
+      "sha256": "5c38f50913edd4c5b1b2909f037a2a6fcdb69e566043b0b2c84b952709609a98",
+      "size_in_bytes": 6144
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/bomb.gif",
+      "path_type": "hardlink",
+      "sha256": "4f854248e86df2da62b20579ac84270423eceefb52cc0641245ed267f2fa2503",
+      "size_in_bytes": 1162
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/boom.wav",
+      "path_type": "hardlink",
+      "sha256": "91fa16b345550c61efd0949ae3a9d76411b2c3bd3e8e97cfabf077d6a340fc5f",
+      "size_in_bytes": 12562
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/brick.png",
+      "path_type": "hardlink",
+      "sha256": "2bf9ac84ad1a2fcd67cce8c0a2b4d7c8fa6cea7f66be87cb78e5855c5a558d80",
+      "size_in_bytes": 170
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/car_door.wav",
+      "path_type": "hardlink",
+      "sha256": "4f061656a99ee4da955480f53787acf76452284753624c5b371e9d35a98afbfe",
+      "size_in_bytes": 3910
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/chimp.bmp",
+      "path_type": "hardlink",
+      "sha256": "3d2f5d2e1d647e09e66dae654222b21102018bc93e47592f27cdf648db9d8f50",
+      "size_in_bytes": 5498
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/city.png",
+      "path_type": "hardlink",
+      "sha256": "73436eda8ef1ed09af18c0e60c268f9e1bc9f2d3cdba0b8a2a923f67e35f438d",
+      "size_in_bytes": 143
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/danger.gif",
+      "path_type": "hardlink",
+      "sha256": "9b408129a9456e4aa5a2180e9abc24c1539fa818515a89dbef19b5a736c3cb64",
+      "size_in_bytes": 2761
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/explosion1.gif",
+      "path_type": "hardlink",
+      "sha256": "59871dc1b66a99875a69a3d8162479be46b4027a781789e7365a524b1ff5c6e8",
+      "size_in_bytes": 6513
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/fist.bmp",
+      "path_type": "hardlink",
+      "sha256": "3737bc8e1882365f702e0358b55b5106a50662a6e7e3e7eb0196925585e6fd31",
+      "size_in_bytes": 4378
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/house_lo.mp3",
+      "path_type": "hardlink",
+      "sha256": "4749d9517ca6329fd72cf53c4b5cafb2255e593e8c28bb79463a7e5929d5acb4",
+      "size_in_bytes": 116320
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/house_lo.ogg",
+      "path_type": "hardlink",
+      "sha256": "eb8162435663abe70e8fa066c9afefdd98c45a605a199953975f6e74a6b3eac5",
+      "size_in_bytes": 31334
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/house_lo.wav",
+      "path_type": "hardlink",
+      "sha256": "0750707c568f22c4b169ab21fa281523f604f5241dd410974539d200ab0dba76",
+      "size_in_bytes": 78464
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/liquid.bmp",
+      "path_type": "hardlink",
+      "sha256": "aadccf5e1ab476bd8e44d08267a818da5a13d93b2ed03c7962f5c1e78f08d578",
+      "size_in_bytes": 11734
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/midikeys.png",
+      "path_type": "hardlink",
+      "sha256": "f4708298c1ef96e6d1e86f5ad2332fd42f8029e07361f6f98e3361a25d8c76ac",
+      "size_in_bytes": 19666
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/oldplayer.gif",
+      "path_type": "hardlink",
+      "sha256": "35612199a1391547b427eb8217c7ebf975009e86aa59ad1289ca0c4140456148",
+      "size_in_bytes": 1075
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/player1.gif",
+      "path_type": "hardlink",
+      "sha256": "dd94d5586c6779d2aab5fdd1f97d6898f0b463c8d448f1a01c10337868675787",
+      "size_in_bytes": 3470
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/punch.wav",
+      "path_type": "hardlink",
+      "sha256": "034175c53f1a219e9a348ff931c32a2f281bd447e6748ccf8b8916914e04c107",
+      "size_in_bytes": 4176
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/sans.ttf",
+      "path_type": "hardlink",
+      "sha256": "9eb67a1517ade1dc25bc0ef139179808fd90c3219e6e4d2254969215bb693a13",
+      "size_in_bytes": 133088
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/secosmic_lo.wav",
+      "path_type": "hardlink",
+      "sha256": "f842059338fb939a84a86d389fb9a7506529d52b32089e27d3c4f33d3eb4d036",
+      "size_in_bytes": 18700
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/shot.gif",
+      "path_type": "hardlink",
+      "sha256": "6c5d9e63adbdcd0cef0eef3700aa6f79216126ae46e10a4e13df00d2dbdb3c52",
+      "size_in_bytes": 129
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/static.png",
+      "path_type": "hardlink",
+      "sha256": "5dee3037cd1ac2dee74cd88b7a6a1235310a9406c6156edd8cd1133fc22578db",
+      "size_in_bytes": 1202
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/whiff.wav",
+      "path_type": "hardlink",
+      "sha256": "14c58cdd79d8b5c7ba98715740260f8334fec6ef90e032726d97e93e31bc7291",
+      "size_in_bytes": 5850
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/data/yuv_1.pgm",
+      "path_type": "hardlink",
+      "sha256": "5865e8559d0ef9ce834d7f402cba32fb2e0b15e384ba5f96d4fa858c15c62f6d",
+      "size_in_bytes": 649743
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/dropevent.py",
+      "path_type": "hardlink",
+      "sha256": "127bdf6560cdb85605e651e28530f93dedc19709ef700989145b95563e2a4831",
+      "size_in_bytes": 2112
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/eventlist.py",
+      "path_type": "hardlink",
+      "sha256": "e978de6fd2937617de19bc72dec95a9b88826f01c69662c22997a2c36809996e",
+      "size_in_bytes": 3677
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/fastevents.py",
+      "path_type": "hardlink",
+      "sha256": "e4023f3c15f05e7665a86fac86693311d58106d9e1df40967324bb4839152a49",
+      "size_in_bytes": 2890
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/fonty.py",
+      "path_type": "hardlink",
+      "sha256": "60c16ccac65409da14561af45988b58e6fd64c5dd0cf36cd076befbaadd17b99",
+      "size_in_bytes": 2539
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/freetype_misc.py",
+      "path_type": "hardlink",
+      "sha256": "2ed204bf1449170c25740632fa8b4a424c1afa69b8c8033085785ec1410dd901",
+      "size_in_bytes": 3543
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/glcube.py",
+      "path_type": "hardlink",
+      "sha256": "43b5dd69c06162039355d472e4b54aa8da80075be6e4b5588cfa79699f45a00f",
+      "size_in_bytes": 3404
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/headless_no_windows_needed.py",
+      "path_type": "hardlink",
+      "sha256": "893e087eff8244fef579bc9dee86081a35f20e78850aedd6e3d0dff1294930b6",
+      "size_in_bytes": 1333
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/liquid.py",
+      "path_type": "hardlink",
+      "sha256": "a62d9673f7f0b5be12b71880b86a8257df5af8aa77f66c0f53a182a6d68f4af0",
+      "size_in_bytes": 2519
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/__pycache__/macfont.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "ef69784d5c4184fd63132c49301e76c00c7b41f3d53c0b83b6c1c915d9c284f2",
+      "size_in_bytes": 5183
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/JavaCompiling.plist",
+      "path_type": "hardlink",
+      "sha256": "c612206eaf76aab8e5a60e7bc1bdbd4c624fd26d2c84e3cde3a99931aba640e3",
+      "size_in_bytes": 278
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/_MainMenu_EOArchive_English.java",
+      "path_type": "hardlink",
+      "sha256": "bb5ea13dcb0941d9b5ca545bae0db39f80c1c0410800b2c08f9dc29337329079",
+      "size_in_bytes": 5793
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/classes.nib",
+      "path_type": "hardlink",
+      "sha256": "e5b80008096c086d9ecd762a00e00ab68057023fb4c94ec9ac86f2f85ba3e037",
+      "size_in_bytes": 306
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/info.nib",
+      "path_type": "hardlink",
+      "sha256": "419c97c57e4f0599dbfc0fbff977763055f56011dd24979ca8a1784f43750498",
+      "size_in_bytes": 566
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/keyedobjects.nib",
+      "path_type": "hardlink",
+      "sha256": "f088930511fbed9d55f964522f59d803f750e5e0066d346a67a1fa2546021418",
+      "size_in_bytes": 9442
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/aliens.icns",
+      "path_type": "hardlink",
+      "sha256": "0ee2a95bc002b3d591f7c35581ef9175ae9b1f2621a8614dd845e51fe5a68016",
+      "size_in_bytes": 7236
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/README.txt",
+      "path_type": "hardlink",
+      "sha256": "8ba8b141d712a1f4e39ad218e4e2957641d0f13bf21e375c32ba16cc5a487df1",
+      "size_in_bytes": 432
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/__pycache__/aliens.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "fef0f7c5508d375d380b59bc64ba345cee4ab1a953ece53b4c38797ec017e9e5",
+      "size_in_bytes": 8241
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/__pycache__/setup.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "545893d4688309b74c6a7eb88889315543a715f44170ad009f120768fa2f71d0",
+      "size_in_bytes": 666
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/aliens.py",
+      "path_type": "hardlink",
+      "sha256": "7bac23be01ea0e271d5c75025e9df385a475b6335d2f2cb377eeaf7c946ff0f7",
+      "size_in_bytes": 9634
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/aliens_app_example/setup.py",
+      "path_type": "hardlink",
+      "sha256": "76f36650cd4c44a7ba2d9bc19e83386617bcbcb45d71ed5071227666ff9c139c",
+      "size_in_bytes": 578
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/macosx/macfont.py",
+      "path_type": "hardlink",
+      "sha256": "125e717a140d0a366e6f9ece26645499f250adc684cd4343d7696f8cca2bdc19",
+      "size_in_bytes": 4486
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/mask.py",
+      "path_type": "hardlink",
+      "sha256": "11176190616eea23e4e4bf9ca02e36bf379a2b7d9594251c634475b954dae99c",
+      "size_in_bytes": 5555
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/midi.py",
+      "path_type": "hardlink",
+      "sha256": "763b82a13cf085cc569ad4343d872aee77ca0a71c44bcc0abe220be21ab9da2c",
+      "size_in_bytes": 29990
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/moveit.py",
+      "path_type": "hardlink",
+      "sha256": "c5cd92ba0fd78e6004b1dcab046bb9b2bdc304cd2d3bcfd9fe2dcc60d528fcf4",
+      "size_in_bytes": 1837
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/oldalien.py",
+      "path_type": "hardlink",
+      "sha256": "98695ae48159a884262f7610ee4370e1fecef5bf37fd799c59ea12921f2f4e83",
+      "size_in_bytes": 6714
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/overlay.py",
+      "path_type": "hardlink",
+      "sha256": "08baaa0b0c0ec4814a2990d7fffee267b847f2b43eb4faf9045d1411171dc242",
+      "size_in_bytes": 1397
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/pixelarray.py",
+      "path_type": "hardlink",
+      "sha256": "585a2a2a933bdd2d42ca55ffd93af5e73bdf9d4a2a9ebb90cf0c55f14084277f",
+      "size_in_bytes": 3318
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/playmus.py",
+      "path_type": "hardlink",
+      "sha256": "96c39a5220858e7fc7d0e3948452b782a84e04cfca7f2776d95e89e958f9e887",
+      "size_in_bytes": 4564
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/prevent_display_stretching.py",
+      "path_type": "hardlink",
+      "sha256": "d12af138bfb3102a0dd993e162a1fce5defcbbff95fccf051bf1655820da8ed6",
+      "size_in_bytes": 2741
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/scaletest.py",
+      "path_type": "hardlink",
+      "sha256": "751c7723770edee06b76bc6b504a8a0a360b3f25a59acef465251e5376c7dcb9",
+      "size_in_bytes": 4689
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/scrap_clipboard.py",
+      "path_type": "hardlink",
+      "sha256": "b7539f768f85692b0db794e6ae70c3ea7669801e8f37a98335384362bbc4558e",
+      "size_in_bytes": 2926
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/scroll.py",
+      "path_type": "hardlink",
+      "sha256": "c86e0e0940c8e1e6475c7479be220db7977ba9746970254b4935671bf48b617d",
+      "size_in_bytes": 6792
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/sound.py",
+      "path_type": "hardlink",
+      "sha256": "9dc8cad84f396cb4e4e888489410ca29ad61c3f3428b6cc7324de728fc2aaebc",
+      "size_in_bytes": 1359
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/sound_array_demos.py",
+      "path_type": "hardlink",
+      "sha256": "e47b31ac1a34b965d41c63ac7d45cec6c0a8def4158e6c7773abc2ad3c6ad5b0",
+      "size_in_bytes": 6598
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/stars.py",
+      "path_type": "hardlink",
+      "sha256": "33afd0de90fd0e03d535f17412d4ec55eb779b4f67cbe1e542fc35a39179c1fd",
+      "size_in_bytes": 2488
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/testsprite.py",
+      "path_type": "hardlink",
+      "sha256": "39b7969d66cf9ccf03dd6ded9e12457c69f59c471861f5f381290782318b32e3",
+      "size_in_bytes": 6910
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/textinput.py",
+      "path_type": "hardlink",
+      "sha256": "255465a695b8a42190fef60d6f76375407aeb01d1f2dc38f928e05f8e89bb81b",
+      "size_in_bytes": 5346
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/vgrade.py",
+      "path_type": "hardlink",
+      "sha256": "2263234f91fbff726cce26b13c544ba0b411224e47ff42f35b4b29c4b4c111e2",
+      "size_in_bytes": 3320
+    },
+    {
+      "_path": "Lib/site-packages/pygame/examples/video.py",
+      "path_type": "hardlink",
+      "sha256": "40fd59da1d6ef7d60526c60ec70ff95ae822052bb0db767ca9793b86e363043c",
+      "size_in_bytes": 2814
+    },
+    {
+      "_path": "Lib/site-packages/pygame/fastevent.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "87306f9f1fc1b9658f910517995cfed9a44aefd507442545fea4e32103089340",
+      "size_in_bytes": 18944
+    },
+    {
+      "_path": "Lib/site-packages/pygame/font.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "58ae2c8e286381721ee13275de42ad8852c3bba7f31a66f6eb6b27beb8cf175b",
+      "size_in_bytes": 24064
+    },
+    {
+      "_path": "Lib/site-packages/pygame/freesansbold.ttf",
+      "path_type": "hardlink",
+      "sha256": "bf9251269f11e4b35582a99376096deee3d0c4973a459cbd97b0bebc01f440ad",
+      "size_in_bytes": 98600
+    },
+    {
+      "_path": "Lib/site-packages/pygame/freetype.py",
+      "path_type": "hardlink",
+      "sha256": "8c83bc7ae18c842508ce94ec452650d01484c8b1a2036e08624ba27263805933",
+      "size_in_bytes": 1814
+    },
+    {
+      "_path": "Lib/site-packages/pygame/ftfont.py",
+      "path_type": "hardlink",
+      "sha256": "bc7ce81aafa512cc0efc053d1b6ddbcec2a0ea6ea0f9d2735e8921b335b8cfe2",
+      "size_in_bytes": 6239
+    },
+    {
+      "_path": "Lib/site-packages/pygame/gfxdraw.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "77c224fee508c51c8b21dab0f331ab3a6f4dc99858f7426529813c800f7e5f84",
+      "size_in_bytes": 64512
+    },
+    {
+      "_path": "Lib/site-packages/pygame/image.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "7c18740886fcd06afb6904ab6ecbd164d5039af09776aa9366eb35fd869977aa",
+      "size_in_bytes": 29696
+    },
+    {
+      "_path": "Lib/site-packages/pygame/imageext.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "69bdf46b7d4986e29ff5906fc532ca5a8ae25b07ed5fd811e1613382a3cd7a60",
+      "size_in_bytes": 20480
+    },
+    {
+      "_path": "Lib/site-packages/pygame/joystick.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "4c695445f4084abd7b58fa072c04feecf807a03db43f73f7b53e1450412bf11c",
+      "size_in_bytes": 19456
+    },
+    {
+      "_path": "Lib/site-packages/pygame/key.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "76e9a199824e08faa9de3577e17f856951330d232034f55624c8aaa0c4b3c0f3",
+      "size_in_bytes": 15360
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libfreetype-6.dll",
+      "path_type": "hardlink",
+      "sha256": "b8d2e7b35ddc771a5befdff94e1e316b351acf4890ead93741ef88116947682c",
+      "size_in_bytes": 720384
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libgcc_s_sjlj-1.dll",
+      "path_type": "hardlink",
+      "sha256": "93ac731f0cf70883bb4277ae427222d974b45a5ef02441de624218c2b6c02199",
+      "size_in_bytes": 91136
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libjpeg-8.dll",
+      "path_type": "hardlink",
+      "sha256": "ecd99a6cf25ab54c340d10b16e84c34a0a76382c1756469d834b8d02e311c65c",
+      "size_in_bytes": 318464
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libmpg123-0.dll",
+      "path_type": "hardlink",
+      "sha256": "b057162cd02c7c73b3fbf4be9cbaed8ea62d6657abf42a30d93307f5cdf37ace",
+      "size_in_bytes": 317952
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libogg-0.dll",
+      "path_type": "hardlink",
+      "sha256": "eb0e1c4823bf4926063a785af6f3ed4733bcc44f0677fdd6d81507f2ae3a6b96",
+      "size_in_bytes": 44544
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libpng16-16.dll",
+      "path_type": "hardlink",
+      "sha256": "cec529923f066dc7ad4682fc07295127fb52992863fbb23cb7831c59dbb9d87f",
+      "size_in_bytes": 278528
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libstdc++-6.dll",
+      "path_type": "hardlink",
+      "sha256": "6e95eb22e7778b62b72b00c1e4539d67d1fcb291474d08c2ec2a2cc880530bd2",
+      "size_in_bytes": 1209344
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libtiff-5.dll",
+      "path_type": "hardlink",
+      "sha256": "a8bc69298591d6a9b5cb325a6758b4f73614f904c02439b9d7ff842e0f26f9d7",
+      "size_in_bytes": 547328
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libvorbis-0.dll",
+      "path_type": "hardlink",
+      "sha256": "351902e419f62f94d392c256689cb7ae95df1adc085983584894594490b46841",
+      "size_in_bytes": 230912
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libvorbisfile-3.dll",
+      "path_type": "hardlink",
+      "sha256": "1b60a014496343817d5c740f82acc1496adcdc95db2dedf69c4228c3eb3d2cfd",
+      "size_in_bytes": 47616
+    },
+    {
+      "_path": "Lib/site-packages/pygame/libwebp-5.dll",
+      "path_type": "hardlink",
+      "sha256": "e6cc7d531e9d653d3bd0fd989b5237a74f5ec9a359d5df5a47be0d1268924289",
+      "size_in_bytes": 520192
+    },
+    {
+      "_path": "Lib/site-packages/pygame/locals.py",
+      "path_type": "hardlink",
+      "sha256": "f19bd6caa3aa16268f4f9cbbaeed3f3c7782a75e6efde70caa546a35a349fc0b",
+      "size_in_bytes": 1102
+    },
+    {
+      "_path": "Lib/site-packages/pygame/macosx.py",
+      "path_type": "hardlink",
+      "sha256": "1fd404cfc1da106fffebad0dcf69a77423e94072c48dfea336e945cbfdf14179",
+      "size_in_bytes": 769
+    },
+    {
+      "_path": "Lib/site-packages/pygame/mask.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "62231766c88c36de2a52ed9c8466db2d37ea5394da51d21ca59e064c200a8e9d",
+      "size_in_bytes": 48128
+    },
+    {
+      "_path": "Lib/site-packages/pygame/math.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "f735c90bbe13edf58993f5674ef8a19309cdb630ed87c4c118de8b436874eb4d",
+      "size_in_bytes": 62976
+    },
+    {
+      "_path": "Lib/site-packages/pygame/midi.py",
+      "path_type": "hardlink",
+      "sha256": "7b30271d8436b331bda370bfd4dea4cb36b1f5f9e1cfa08a8aa964dbb768ae63",
+      "size_in_bytes": 23836
+    },
+    {
+      "_path": "Lib/site-packages/pygame/mixer.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "f4a9bb7de1ca7efdce34fb1079e5be3f8defda82cc32b8c685fc49f1da206262",
+      "size_in_bytes": 35840
+    },
+    {
+      "_path": "Lib/site-packages/pygame/mixer_music.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "1580534be5697d6ba95b402704a33a14f78233a8290c05ef000b52b76623820c",
+      "size_in_bytes": 18432
+    },
+    {
+      "_path": "Lib/site-packages/pygame/mouse.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "63f92db310901ee466283f1844c3794fbda41992c77ab94c70f20f36ad60f2de",
+      "size_in_bytes": 16384
+    },
+    {
+      "_path": "Lib/site-packages/pygame/newbuffer.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "8926406da33f764141bb6d6195202549013affe227c20e25039f310afb1a1060",
+      "size_in_bytes": 23552
+    },
+    {
+      "_path": "Lib/site-packages/pygame/overlay.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "ef30bda53d51295e2b0f69741346eea2dda5e62eeaef887b2586a038a47142b8",
+      "size_in_bytes": 14848
+    },
+    {
+      "_path": "Lib/site-packages/pygame/pixelarray.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "5c1f81db1213e599fcf401243dc059f4ae3f81fa74ba2ef85bd454e01d480864",
+      "size_in_bytes": 53760
+    },
+    {
+      "_path": "Lib/site-packages/pygame/pixelcopy.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "ed8e9bf699348de7a28cf5037c7fffc6405cc8c82b8023a6afd3288085404aad",
+      "size_in_bytes": 26112
+    },
+    {
+      "_path": "Lib/site-packages/pygame/pkgdata.py",
+      "path_type": "hardlink",
+      "sha256": "b0df3d7b0d906578c0c9cd70565a8d48e70f70ae33d1c032f599b0dbdaa41680",
+      "size_in_bytes": 2264
+    },
+    {
+      "_path": "Lib/site-packages/pygame/portmidi.dll",
+      "path_type": "hardlink",
+      "sha256": "c9f8d9043ac1570b10f104f2d00aec791f56261c84ee40773be73d0a3822e013",
+      "size_in_bytes": 41984
+    },
+    {
+      "_path": "Lib/site-packages/pygame/pygame.ico",
+      "path_type": "hardlink",
+      "sha256": "3c117d730d026bd470da93660c3de25ef718610788f59cd9f6fc6d44b411a097",
+      "size_in_bytes": 145516
+    },
+    {
+      "_path": "Lib/site-packages/pygame/pygame_icon.bmp",
+      "path_type": "hardlink",
+      "sha256": "4f09dbcbc9efe073211a46b8f67fb8ec23ec783bf0ad22d9d25d68f54d816f9b",
+      "size_in_bytes": 630
+    },
+    {
+      "_path": "Lib/site-packages/pygame/pygame_icon.icns",
+      "path_type": "hardlink",
+      "sha256": "077439f4f6844fae81afec77c1416da3298e8c9041f5cc4450403be181354cbe",
+      "size_in_bytes": 53627
+    },
+    {
+      "_path": "Lib/site-packages/pygame/pygame_icon.svg",
+      "path_type": "hardlink",
+      "sha256": "a3181eed11121a03f6fbeedf52633b1e7983def69d213e618c3ca48552dc223d",
+      "size_in_bytes": 15363
+    },
+    {
+      "_path": "Lib/site-packages/pygame/pygame_icon.tiff",
+      "path_type": "hardlink",
+      "sha256": "72f0ea35e47949c9123320fa6bbbcd52c56057b4185cd5568ec982d010145fdf",
+      "size_in_bytes": 61604
+    },
+    {
+      "_path": "Lib/site-packages/pygame/pypm.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "486469c38ab175e00ebf423a2248f1b413621915b38620954305b821e3dd1b77",
+      "size_in_bytes": 80384
+    },
+    {
+      "_path": "Lib/site-packages/pygame/rect.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "551ba7d50ccf6be463ae191ca34014dc29e7007a9b413e2d9d919d4f8656a49e",
+      "size_in_bytes": 34816
+    },
+    {
+      "_path": "Lib/site-packages/pygame/rwobject.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "d64d97a8fa692dfa265abbbf9258196624071c25b1a2d893b93ba62fcc5314b2",
+      "size_in_bytes": 18432
+    },
+    {
+      "_path": "Lib/site-packages/pygame/scrap.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "c0372d24335bda826b2b4959b9791c8b40057752fb0fdd67050f81d7ae2caf53",
+      "size_in_bytes": 19968
+    },
+    {
+      "_path": "Lib/site-packages/pygame/sndarray.py",
+      "path_type": "hardlink",
+      "sha256": "d339055b5e2f8f306403f169add7f0a16c6de1411ebb880e2e4597b4b8e4eec4",
+      "size_in_bytes": 3413
+    },
+    {
+      "_path": "Lib/site-packages/pygame/sprite.py",
+      "path_type": "hardlink",
+      "sha256": "b7cfe46e03b5e453e3ac106203194a33563e9a5492bfcd61ff43b66ac2506033",
+      "size_in_bytes": 56082
+    },
+    {
+      "_path": "Lib/site-packages/pygame/surface.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "7814c17a66cc6d92234bb5224b44ad7574d2d8885f989aec5d4edaace4e64d92",
+      "size_in_bytes": 249344
+    },
+    {
+      "_path": "Lib/site-packages/pygame/surfarray.py",
+      "path_type": "hardlink",
+      "sha256": "f050b496d4c9c46af1699d512d9dc71b2f1aa7bd9e3def7dfae49bfb3560e741",
+      "size_in_bytes": 10257
+    },
+    {
+      "_path": "Lib/site-packages/pygame/surflock.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "8f9a453f3acf0e176594f9d1279b4c6ed3544b54724e73302b5a375b7d6abacd",
+      "size_in_bytes": 13824
+    },
+    {
+      "_path": "Lib/site-packages/pygame/sysfont.py",
+      "path_type": "hardlink",
+      "sha256": "91f8073ba543bc3515ce3f2db0be2b79445b90a2b682ce11e078880e9905f6a7",
+      "size_in_bytes": 13581
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "744e881581e354f7520e4f63b569defb6ca31d7b75ba418ec4c3f7eec0517e00",
+      "size_in_bytes": 1273
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__main__.py",
+      "path_type": "hardlink",
+      "sha256": "1c930d4c8225ea2d2701bae085ddec42c552a9cc8995e60299faaddd1bfc7a40",
+      "size_in_bytes": 3834
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "dd2f5d6e0018484047186df9485db01882fbcd1ee29b410dd8c8e605bfc75499",
+      "size_in_bytes": 1309
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/__main__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "8e1f5aca8e3b2c49276560b7871eed62521ce219efdd3379ab6f609996c5df32",
+      "size_in_bytes": 2691
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/base_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "bf22eb92d403478fb5ccdc3d926fe3a5eb5d020846e0678bdcf4653eaa0c1f47",
+      "size_in_bytes": 16919
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/blit_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "036ffab687b631a05f9f05602a7c80b9eb6674ab6c79ba8624e8c51f6615f0e4",
+      "size_in_bytes": 4162
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/bufferproxy_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "d5909f0f57d7e6b6276a03e7b0ddd787ba04c01d9350ae6df4d47a4233616f31",
+      "size_in_bytes": 12826
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/camera_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "74419ee008dcafe6a9b98d715b1050ff5029126cd40782b24f6453f95c53e61d",
+      "size_in_bytes": 402
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/cdrom_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "6255333d2bc97af5e8c4a69c661f39c47a1d1fa4968d3f63e430629b50067812",
+      "size_in_bytes": 172
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/cdrom_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "1c2d40329d24335e88e8a4bdf606151abdf09fff45698ceb59f17c9b533e7a4e",
+      "size_in_bytes": 6868
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/color_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "b2f8389674f8e04db7b85ff22221e44e9e876ea265a95d40c986c58fe1dbde52",
+      "size_in_bytes": 31590
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/compat_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "5144aca31ce7cdcdea14c712d733a419ab9d1e32d59b849919b8e2984113b025",
+      "size_in_bytes": 4164
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/constants_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "137d67f7358020606a094a3a777471bdca6991da09d98a581b003d06896da021",
+      "size_in_bytes": 1791
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/cursors_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "4b2730a296cd209dd4895527570a7129ca9158b3dfea00b2ca50459c2bca4b7c",
+      "size_in_bytes": 1226
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/display_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "390bebb1bd024eab9852c54b55383bc0a52a64f4b169667db950da46a54f3eaa",
+      "size_in_bytes": 6463
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/draw_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "39b0e3622bf7ab870907e38a7b5bdb168fe566c90fcafef0b4d57e380d14747d",
+      "size_in_bytes": 40999
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/event_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "927f2b07dc3f49e2ed180c644aaffb28f7dadf4f2dc410cfd874860af94336cc",
+      "size_in_bytes": 11040
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/fastevent_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "09037bbfb0a1776497e4345bec901fa0d9f2d090c21e24204cf65b833f1e0304",
+      "size_in_bytes": 146
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/fastevent_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "1d484cc123fa098df59a9a820395b38daa327dce20f99a4b0ee1075e565f0c73",
+      "size_in_bytes": 3384
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/font_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "822efd7abdef286c0412a80f4d5b8744bed63fb19abe62473e2458a100432374",
+      "size_in_bytes": 141
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/font_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "0ffd5b655c279f2ed3a59ced7315939b7cb72d8c2157a0d829fb46a64773e991",
+      "size_in_bytes": 15907
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/freetype_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "b7480915d6e2a30d608e400bac83e328a8ce36c06f7157a904d13efaacfa5d4f",
+      "size_in_bytes": 323
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/freetype_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "b939d131560f24ba901e02cf2b7a1ec08caac9248b10cd34415593daebf40760",
+      "size_in_bytes": 35350
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/ftfont_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "a4eb02612fadbb5abfe45c10afc0b80fdfeb7ac4ce06adef7c271bcbc58f1e6d",
+      "size_in_bytes": 319
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/ftfont_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c75f640d093c1561a4e1c26c6b9b749ca7479c6eb1f00776fd7ccc70b496b006",
+      "size_in_bytes": 533
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/gfxdraw_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "4ca8cf2c356faea9a497586ceb3df3a318c895453387ce50b3cf6cdd96a010f7",
+      "size_in_bytes": 22786
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/image__save_gl_surface_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "80f4fbfeb50f1e8a075a8609af633a84898f2c818d5477c0cc5db47ed0f3eb0a",
+      "size_in_bytes": 1284
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/image_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c2cd7eac912cb6b025262ba7626c6fbe925e89307cc1c462a072e46cc9e5e5c2",
+      "size_in_bytes": 264
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/image_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "86b379c5939b21b317800db92c2b50d930a4705deeb3b46f62d61dcbe32d3a5c",
+      "size_in_bytes": 14388
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/imageext_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "d1c59ff5e7246fce1ae6401af829458cfd314f9077c0b298beb7abe425b7e6c2",
+      "size_in_bytes": 270
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/imageext_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "eb3f9785ea0ad5363d5cd77e6fb725c837acdf9a696cafd3675bce49a0cb2854",
+      "size_in_bytes": 3964
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/joystick_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "38d48f642f3dceb3769ab293f3fc6e3e3caeedc5170510149a153e53c98cf75c",
+      "size_in_bytes": 1264
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/key_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "cd1cdb5bc9d9be3e551914c51ede53e2aab49662368749d40274b1c0f5d8112d",
+      "size_in_bytes": 2276
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/mask_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "46cdf8f382c4a1b2f0e72028f92b62a9d12bb76c3d7a5de05f12fcc3b33960f7",
+      "size_in_bytes": 57797
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/math_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "2b69e94f95e31d37b58d72a8179756f8e1264920d196dd7d73fb3cb6d40f1444",
+      "size_in_bytes": 64374
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/midi_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "fa8c095015e7a44ea1454bfdd9b0174cf3def4b65d73ad2cd516df7ff8f61318",
+      "size_in_bytes": 156
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/midi_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "8e2745aaa34f567b75971f8c3e7aea5770ce6fb23a993d49ce7e456dda40342c",
+      "size_in_bytes": 11473
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/mixer_music_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "6a5ccd60219f1db2270c85ac35ffcc02bfef6e5bf750f73ed5d025c13fa9ba21",
+      "size_in_bytes": 276
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/mixer_music_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "9218a61d5da76e81c5080ab8841158dd26fe48a329f4a1e00f8831f225ab90f5",
+      "size_in_bytes": 4858
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/mixer_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "aa8279608d9f8bbc755593a5cc6ca52523091ab6452a3780b2a76721f738b69e",
+      "size_in_bytes": 264
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/mixer_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "0381f6ce9cab49db3e4b94c11c292d6c00e8fdf41612ac4c9b813f1bd2df338c",
+      "size_in_bytes": 25213
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/mouse_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "9186ee3bd688448b7e25993131fb3435a28282c91555139dcc9f68c2b1005d10",
+      "size_in_bytes": 1602
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/overlay_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "77957930f11a152c7f3848489e52704897a812bb2631d8cef4f5b813e9bb5d4c",
+      "size_in_bytes": 159
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/overlay_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "f7a19ed661e5f42302a5c9a7b2cfc52c98801eaf527da02970d2e83bd1f18bb0",
+      "size_in_bytes": 836
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/pixelarray_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "fcd179e0fe4f4c2c4137fa1f5eb67a059028bdb49c8f453c1f41133debde6a6a",
+      "size_in_bytes": 36536
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/pixelcopy_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "febd72d3a732692516866ee1587bfd5ef094103eed8549210c6ba4703d030d28",
+      "size_in_bytes": 18849
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/rect_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "9b74bcc432982682706dacdc6d6a6759e21e4f4b28646e81ff5ec3c2acebbe26",
+      "size_in_bytes": 24722
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/rwobject_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "187a33b80ea6a02ef3a9d02f89d092cc0b478e17e1009b0848b3e3effef21efd",
+      "size_in_bytes": 4592
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/scrap_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "048e94aae82092ec4f02ba678847ace8a942daec2df6959b43760246ed97f05c",
+      "size_in_bytes": 427
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/scrap_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "fa0f65f0c8fbc2a1c1a21e272773df66add5bda4e7ee8fc6e453d797717d1005",
+      "size_in_bytes": 9310
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/sndarray_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "40b3b9a09320744569b7c65713cd621c87eb70f64e4746d8539042286b2d964e",
+      "size_in_bytes": 329
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/sndarray_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "4591090bcded6b6e82dd1cd8a048a52e587d98a2b6a631dd4891f3d445c82330",
+      "size_in_bytes": 5739
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/sprite_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "abc1a08fe13e47f98d9e006843661431bcc1917d9b09ade114bab3bfdf6f703f",
+      "size_in_bytes": 33740
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/surface_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3446884737b72967f128a4fd9df039b351e39791e2a117facf7f6d43b1c95eb7",
+      "size_in_bytes": 66723
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/surfarray_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "f9b3d55de03ec33d234e64b7ab66810a49e62a68830f0b71c10c07c20dfaf837",
+      "size_in_bytes": 370
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/surfarray_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "ecadf5859472e1494aa647c4a5197e43919e6acea48f8171479836f0806132e6",
+      "size_in_bytes": 18129
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/surflock_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3c97e9e9fbaf0e06625819dfd38f03d44567d17f6af53ec35c7a9306fc986c91",
+      "size_in_bytes": 2798
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/sysfont_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "37036faf43c38531b91172fe1b169e680b12b5079308fa5b1cffbef998d4cdc7",
+      "size_in_bytes": 1612
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/test_test_.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "ac802741467b573a54860c51235d1e202d818737c0eac84bc09683fe652ba796",
+      "size_in_bytes": 139
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/threads_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c9a01d6abbcfaee87050e5b0f5c3340fb06cbe5c9bd776bc9908ee8dd15fe164",
+      "size_in_bytes": 5579
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/time_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "2bb708bc108f958c8c92ece0295ae0cca35cf048141475c3ee9e13e7a81c2b86",
+      "size_in_bytes": 2136
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/touch_tags.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "14746cb6768e9d93c97cd1ad6ee6e10f15944ef359c579ca67202e9a04066127",
+      "size_in_bytes": 157
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/touch_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "ca4a5278fbda0c035945cabfcede3ffe88f7f08ec1a292eb8c7aed380e86bd28",
+      "size_in_bytes": 1929
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/transform_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "87e58b0c96f2fe56cba16439a81452bbadde955490b36fe8bd2ac4d9c8aefd04",
+      "size_in_bytes": 22100
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/__pycache__/version_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "0d36e2652a18cec1be84c284abaa360c80ef8b70f484e9ab6864f7d7a98c17c6",
+      "size_in_bytes": 1326
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/base_test.py",
+      "path_type": "hardlink",
+      "sha256": "5711a46e8f3da897e6739dc57578e8b97a80a160618420b8a3016761e6cddcb0",
+      "size_in_bytes": 24055
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/blit_test.py",
+      "path_type": "hardlink",
+      "sha256": "725d1d539f7dc2f176c30311a0cf35ac84f3a75d41a71421c623f4c5551b1bf9",
+      "size_in_bytes": 4683
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/bufferproxy_test.py",
+      "path_type": "hardlink",
+      "sha256": "559ba4c62ec2f74210abc99f637dae5cf25d2d9144340065ed4b2249666bc655",
+      "size_in_bytes": 16808
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/camera_test.py",
+      "path_type": "hardlink",
+      "sha256": "adc7e84ce40a0f9ecd6984bbb90f3f214338e6d8c7d2ff804bd54dae027e87a2",
+      "size_in_bytes": 129
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/cdrom_tags.py",
+      "path_type": "hardlink",
+      "sha256": "29ae4738f8a9ef0a2cb718e1e673d008f32141667342da8288eb2c974d5f5c48",
+      "size_in_bytes": 42
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/cdrom_test.py",
+      "path_type": "hardlink",
+      "sha256": "68bf31ac83d48fe149cc805593f553d3903569a142a16889c4c2edaa7f0f4ac4",
+      "size_in_bytes": 9976
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/color_test.py",
+      "path_type": "hardlink",
+      "sha256": "44ca153c663872d7ce6d67c988c17a2186b8752150b8944f4a2775852a952ae1",
+      "size_in_bytes": 36611
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/compat_test.py",
+      "path_type": "hardlink",
+      "sha256": "72e12075010a52051b449c27e535aa3dfca0382fdb6f23ba3efd7ca3c5f00c72",
+      "size_in_bytes": 2773
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/constants_test.py",
+      "path_type": "hardlink",
+      "sha256": "f1a7825c1db283c422b4898f54b8ce026f2c3d11c5e45691956ef84157408ace",
+      "size_in_bytes": 1445
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/cursors_test.py",
+      "path_type": "hardlink",
+      "sha256": "9da0ff8e87358cfcb5013903c9982c6a36ff133e6888b6d5dc2e0e8e098682b8",
+      "size_in_bytes": 2491
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/display_test.py",
+      "path_type": "hardlink",
+      "sha256": "0334726f7dd1b9692964f8ec54705ff5fdad09d4b6ca8f6f874544e4729ec832",
+      "size_in_bytes": 16299
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/draw_test.py",
+      "path_type": "hardlink",
+      "sha256": "a4861e531198e4d0cb4bc9ab0d7e802280e34be8ee6fa25677147d48ab381160",
+      "size_in_bytes": 51526
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/event_test.py",
+      "path_type": "hardlink",
+      "sha256": "5897d5e5503e50b96720a6e535540461062368136995503d4f857a6d26a82cbc",
+      "size_in_bytes": 10698
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fastevent_tags.py",
+      "path_type": "hardlink",
+      "sha256": "9bd0808636457223d1bd6173d5f26eea419930db7616b0e5a04900fd6cf53ce8",
+      "size_in_bytes": 14
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fastevent_test.py",
+      "path_type": "hardlink",
+      "sha256": "0e33cb0f7ca00d3fdb401b0874f7f3e6cd3109ad6c9ec3e8893bb5fdd2ee8646",
+      "size_in_bytes": 5410
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
+      "path_type": "hardlink",
+      "sha256": "4268517800f02abcd6e515a71b528712d648aa956dc16ce15e6c9d5f5b2ed747",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fixtures/fonts/PyGameMono-18-100dpi.bdf",
+      "path_type": "hardlink",
+      "sha256": "9e6de89319df005b400e5a7bb36018e37cd2e3d35883d8eaec65731b694f84e4",
+      "size_in_bytes": 1947
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fixtures/fonts/PyGameMono-18-75dpi.bdf",
+      "path_type": "hardlink",
+      "sha256": "e24074b98784a5add6f99028985329734843fa1e859ce8769b920f8bac737ddb",
+      "size_in_bytes": 1648
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fixtures/fonts/PyGameMono-8.bdf",
+      "path_type": "hardlink",
+      "sha256": "68ad0a57efe8b033d33e20350540a06473a6b9fcba27d561e697f52008b4ff28",
+      "size_in_bytes": 1365
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fixtures/fonts/PyGameMono.otf",
+      "path_type": "hardlink",
+      "sha256": "fc07f82f230480a2866bc8c395f8a4f3d6b184b7371e84bc686e491d6379b19c",
+      "size_in_bytes": 3128
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fixtures/fonts/test_fixed.otf",
+      "path_type": "hardlink",
+      "sha256": "1561e616c414a1b82d6e6dfbd18e5726fd65028913ade191e5fa38b6ec375a1a",
+      "size_in_bytes": 58464
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fixtures/fonts/test_sans.ttf",
+      "path_type": "hardlink",
+      "sha256": "9eb67a1517ade1dc25bc0ef139179808fd90c3219e6e4d2254969215bb693a13",
+      "size_in_bytes": 133088
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png",
+      "path_type": "hardlink",
+      "sha256": "c7f0f6f0f5bc68a79df191c12ba00848467dbe5115efa5a18bbef422d4ee1555",
+      "size_in_bytes": 89
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fixtures/xbm_cursors/white_sizing.xbm",
+      "path_type": "hardlink",
+      "sha256": "54b012d40e35ed3f9583a18cb2689c5026293a1bc6b2b80925852f745618b5e6",
+      "size_in_bytes": 366
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/fixtures/xbm_cursors/white_sizing_mask.xbm",
+      "path_type": "hardlink",
+      "sha256": "08a41e88eb6516825d02db3cdd499311e564fb7a71809f56bb64096828f30103",
+      "size_in_bytes": 391
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/font_tags.py",
+      "path_type": "hardlink",
+      "sha256": "9bd0808636457223d1bd6173d5f26eea419930db7616b0e5a04900fd6cf53ce8",
+      "size_in_bytes": 14
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/font_test.py",
+      "path_type": "hardlink",
+      "sha256": "fb9ec1ad83b0e57aeabe46e73d9a448542b49829d95ac02a8378046175f6e1ee",
+      "size_in_bytes": 19716
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/freetype_tags.py",
+      "path_type": "hardlink",
+      "sha256": "93ca45eb05cec68ea079bdf35912da7ca7a6b05049b1a4db80b6c605d647979c",
+      "size_in_bytes": 183
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/freetype_test.py",
+      "path_type": "hardlink",
+      "sha256": "ff64856535556742c5b512d53ddf90f41ce30dad03f51b690b17cd33798caebb",
+      "size_in_bytes": 60454
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/ftfont_tags.py",
+      "path_type": "hardlink",
+      "sha256": "4280b3c5a6b8417244b474d55976ae69b2f61a1371d190e2fdc6e43765de5076",
+      "size_in_bytes": 181
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/ftfont_test.py",
+      "path_type": "hardlink",
+      "sha256": "73669d8092667f7a6958b1fa0124411f29a6ed131a9ad4227d2790c9f65f4f25",
+      "size_in_bytes": 534
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/gfxdraw_test.py",
+      "path_type": "hardlink",
+      "sha256": "dc278fa7e1a94ea91f8802f04a2882788dcb37f20d25c0d84987f8fbdf7d37d6",
+      "size_in_bytes": 34365
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/image__save_gl_surface_test.py",
+      "path_type": "hardlink",
+      "sha256": "29c9fc446564312bbb594a8c769220110919201bf640b9b41a6c74ebd013e994",
+      "size_in_bytes": 1201
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/image_tags.py",
+      "path_type": "hardlink",
+      "sha256": "35eab48a7eb60252e95e61ae120bb75fcf832d060c6997e81c5c88732c477ba2",
+      "size_in_bytes": 132
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/image_test.py",
+      "path_type": "hardlink",
+      "sha256": "c1d659e22ded14c82ad1df9b968b3b392cf461d87a1265f71d8186cd18590f76",
+      "size_in_bytes": 20747
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/imageext_tags.py",
+      "path_type": "hardlink",
+      "sha256": "091f5c23858856ed1bfc6b8fa9cccda8593eb7e85c5804d368e5929c0388004b",
+      "size_in_bytes": 140
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/imageext_test.py",
+      "path_type": "hardlink",
+      "sha256": "87c1a058475c2eec405cf6d15e0a98d00193552e5a25f701b9dfc905cfc9713b",
+      "size_in_bytes": 2956
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/joystick_test.py",
+      "path_type": "hardlink",
+      "sha256": "7ef46e077b9a89ec167266eb8385b6537b652a5c40ad698c8d3b42a343a834a9",
+      "size_in_bytes": 3254
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/key_test.py",
+      "path_type": "hardlink",
+      "sha256": "baff279d396801d29f279b8f79a2f4a155076c6d87e3c3e2f50374cea326f066",
+      "size_in_bytes": 2099
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/mask_test.py",
+      "path_type": "hardlink",
+      "sha256": "dd85beeb82c499b3d82edd63f2c6d71c9cdc527c1d0155b4c0b44f05a8d14f60",
+      "size_in_bytes": 75723
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/math_test.py",
+      "path_type": "hardlink",
+      "sha256": "fab7b611248522b478c82d135f905e8d513a0f9b09db80f79e78c2d377ecc5a8",
+      "size_in_bytes": 75473
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/midi_tags.py",
+      "path_type": "hardlink",
+      "sha256": "921f91810b9b669a03a42d1f2ec94964e3a0282bb200d88929614f72e5176a40",
+      "size_in_bytes": 27
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/midi_test.py",
+      "path_type": "hardlink",
+      "sha256": "302d7bf0368b92ac4776d3128ffda160df89898197d27af0ef6ee059a94315d2",
+      "size_in_bytes": 13053
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/mixer_music_tags.py",
+      "path_type": "hardlink",
+      "sha256": "b6fdd0a9015209be26e448faeca54d6ccd029dea84c29d5ca9d8a7a0f0fec02d",
+      "size_in_bytes": 138
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/mixer_music_test.py",
+      "path_type": "hardlink",
+      "sha256": "e8f3e9fb17e4e9b3c62448d286686fe06929ce6a44ddb555ae9a0240d9cce87b",
+      "size_in_bytes": 8469
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/mixer_tags.py",
+      "path_type": "hardlink",
+      "sha256": "3b1a2b0b1087a6ee53215a3bd0cfd57d05e53d4f64b1f6e9144e60892fb36f92",
+      "size_in_bytes": 132
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/mixer_test.py",
+      "path_type": "hardlink",
+      "sha256": "a47008d8cb2abff23f9d66f18087b9034432db70a927e5e9097582ad4480f94e",
+      "size_in_bytes": 38752
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/mouse_test.py",
+      "path_type": "hardlink",
+      "sha256": "6611f14dc03222ecc34e4ef5100a3683917ebbf3a0f5657c747ddfb0f96d32d7",
+      "size_in_bytes": 5607
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/overlay_tags.py",
+      "path_type": "hardlink",
+      "sha256": "a38bf19d2006fee84d6a3ee529499bce9770aa5761097f666e33a3b5db092db7",
+      "size_in_bytes": 66
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/overlay_test.py",
+      "path_type": "hardlink",
+      "sha256": "8d59056f1125f780dfaccaf4097e5ea8b2faf9ca4947414bb7845623522d2740",
+      "size_in_bytes": 943
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/pixelarray_test.py",
+      "path_type": "hardlink",
+      "sha256": "1cfd632df2219c00aa20b1a7cb6f1ce4fb4d5bd3689f8fea8dffcbd8861addb4",
+      "size_in_bytes": 56189
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/pixelcopy_test.py",
+      "path_type": "hardlink",
+      "sha256": "cbb19d5bd6ccd3a4f6dbeb0ce02f3b8c0f3aa5436cd792f6c6b6771caa5f20c1",
+      "size_in_bytes": 26072
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/rect_test.py",
+      "path_type": "hardlink",
+      "sha256": "e048320f458497a16074537d85c161379e61beb454979a42e0b29d71b79bcc07",
+      "size_in_bytes": 27447
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "09bd0e827ee38fb861a4752c5a7f1a18f0404e18bf07e66301180c7cd9d91d90",
+      "size_in_bytes": 146
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/__pycache__/run_tests__test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "57a6736f2b2af56d75683430a4001a47a8e5da73715a0ac872dc2a7e53465525",
+      "size_in_bytes": 3309
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "ff05f542006026d8e9a04cd2d8ab855b87e43abc3a7ce604d2fffbcb8fb81e1f",
+      "size_in_bytes": 153
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/__pycache__/fake_2_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "d48b89530d1a1f64c528b2647095329e8bcb31c2312fc167b3cabb6fbe6885a2",
+      "size_in_bytes": 1573
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/__pycache__/fake_3_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "9fd7b8140e5072e0b4d3967e3fed1f2a48d587523ecfecd4ddf94758049b2006",
+      "size_in_bytes": 1573
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/__pycache__/fake_4_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "394208a18efd3f8e8251c5ee1ed703e8a3c0973e721efa1c76713424fe01cdac",
+      "size_in_bytes": 1573
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/__pycache__/fake_5_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3a8d31d179fc0c57378e30f6a35234f3cba31def9ffdc04d5863412af8fe2475",
+      "size_in_bytes": 1573
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/__pycache__/fake_6_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "aa0eff65ded37375e808fc354ba4b90bf95867a3c521a852958d7d047c69e7b9",
+      "size_in_bytes": 1573
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/__pycache__/no_assertions__ret_code_of_1__test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "b7e49607103ba5d5c011863f42ac1fba03ceb16281ec26861314cf5fc9d382e9",
+      "size_in_bytes": 1511
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/__pycache__/zero_tests_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "5cf26559d964f2bc54f0a557f7e0a73e1145b6d7fe9a0a97effc2b4874c2fdba",
+      "size_in_bytes": 705
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/fake_2_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/fake_3_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/fake_4_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/fake_5_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/fake_6_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/no_assertions__ret_code_of_1__test.py",
+      "path_type": "hardlink",
+      "sha256": "c8c381c38e73d77b3bde94f1f363b3326606ed9892890fc81203041f6d7fe22a",
+      "size_in_bytes": 877
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/all_ok/zero_tests_test.py",
+      "path_type": "hardlink",
+      "sha256": "b37d101f601ed33968f88a2e0b452e14d61ae6bad3c0f23a519e4f556f21c547",
+      "size_in_bytes": 625
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/everything/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/everything/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "5c66b962f8431b911863136fdd78905a1c9ee1091226ab89e46df5b3addb43e7",
+      "size_in_bytes": 157
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/everything/__pycache__/fake_2_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "ea45570194eead5dc18689813eddd7021f5a2617db7ab91df83d5e3831ca8780",
+      "size_in_bytes": 1577
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/everything/__pycache__/incomplete_todo_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "2ceea4bf5907487bb6ca0aa95f7b8352dbc25499715b82466211731033dc75a3",
+      "size_in_bytes": 1606
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/everything/__pycache__/magic_tag_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "5fd457e6f77c0a8c1333188e61ad34cbf471698c1480bcd2caab087809017a7c",
+      "size_in_bytes": 1458
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/everything/__pycache__/sleep_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "0637587eca0cb6d683586264ea823e194e0ec324ff78bd843eddb272395c7819",
+      "size_in_bytes": 958
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/everything/fake_2_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/everything/incomplete_todo_test.py",
+      "path_type": "hardlink",
+      "sha256": "cd978a0639aa12da4570772e5f48d566e756693c6f336a17d094e801b28b95e6",
+      "size_in_bytes": 990
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/everything/magic_tag_test.py",
+      "path_type": "hardlink",
+      "sha256": "edf42087c50cc42c79d632c637ee738711dc97a1137a0a58778cb8a2be60a999",
+      "size_in_bytes": 940
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/everything/sleep_test.py",
+      "path_type": "hardlink",
+      "sha256": "e2dfb7a905bb1b85a7d13f9edb232a0a305d4e0fc8efecd614a5d4916ebef467",
+      "size_in_bytes": 796
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/exclude/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/exclude/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "03c99218d5d01e0975253fd55082333ea63351a2bc48a0016bbd6dcf1fd2a5a7",
+      "size_in_bytes": 154
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/exclude/__pycache__/fake_2_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c0d024b63e5337149f19efa6bfb716dd822e5849916ec50b913e5c5f76a78e1c",
+      "size_in_bytes": 1574
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/exclude/__pycache__/invisible_tag_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "5cec2aaf153891f29135f0aade4d016188198fcd40dd5afc3976abd172dc577f",
+      "size_in_bytes": 1610
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/exclude/__pycache__/magic_tag_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "afe412e61180810e439292841f43a1aed2cd34e702cc6a55c1760353c2318dea",
+      "size_in_bytes": 1455
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/exclude/fake_2_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/exclude/invisible_tag_test.py",
+      "path_type": "hardlink",
+      "sha256": "c18102e7dbc654522c89d3b47f79a01e2aff9d441944a6de85a1ead00f9a4f2f",
+      "size_in_bytes": 1006
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/exclude/magic_tag_test.py",
+      "path_type": "hardlink",
+      "sha256": "edf42087c50cc42c79d632c637ee738711dc97a1137a0a58778cb8a2be60a999",
+      "size_in_bytes": 940
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/failures1/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/failures1/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "a876e1edff3f8aa1aef8dc615c5e573829a882784f301863bf6891ddf94bebff",
+      "size_in_bytes": 156
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/failures1/__pycache__/fake_2_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "56ffee3e9f71fe3e8953c56b7b182dce876109e2ca182e4a5755f9ce3f2d1352",
+      "size_in_bytes": 1576
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/failures1/__pycache__/fake_3_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "af42cd77e93c35c1088ab885c0cf3fbf81d6b83bff9740d4eccbeb513c0616fe",
+      "size_in_bytes": 1576
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/failures1/__pycache__/fake_4_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c4f4871a54379d4e4179400677cd8e4c7bf19b526ce7fc0937fd6c80ef4cf831",
+      "size_in_bytes": 1603
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/failures1/fake_2_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/failures1/fake_3_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/failures1/fake_4_test.py",
+      "path_type": "hardlink",
+      "sha256": "f9f3074fb062026db3fdbdfcc69099c36cbe8e334d56ac4c3b01263a37925c4c",
+      "size_in_bytes": 1030
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "10a2784fe8d41d25309fd73eb3e685d6935c9ea6d9673a2eaca01107498eac5a",
+      "size_in_bytes": 157
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete/__pycache__/fake_2_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "6f39d822472a122394d453093fbbc15a5e095fc09f2b613ea44b7f827cdf54cd",
+      "size_in_bytes": 1592
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete/__pycache__/fake_3_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c6ee718fa27ae00672949caab5afeb1269c0307d006b4d7daea4b60b9bd67cd1",
+      "size_in_bytes": 1577
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete/fake_2_test.py",
+      "path_type": "hardlink",
+      "sha256": "d0ddaf8b28e7e8cab5d1b81c1cfff1f6b9147f2a1bbd88c645b4ff15f2525327",
+      "size_in_bytes": 970
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete/fake_3_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete_todo/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete_todo/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "eef75a0402af1697a52adf9a53f2a5d71eb610e4c46ceb6556aa59b59864681a",
+      "size_in_bytes": 162
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete_todo/__pycache__/fake_2_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "8fc933dbb47b5d0c0e290b6e4b4628a24cd58fb433fa0c762073590ec6687b8f",
+      "size_in_bytes": 1602
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete_todo/__pycache__/fake_3_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "0a4bed7cf43d47e601a161af001308daae289b7b3ec442cc60d2dac934ea2aed",
+      "size_in_bytes": 1582
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_2_test.py",
+      "path_type": "hardlink",
+      "sha256": "cd978a0639aa12da4570772e5f48d566e756693c6f336a17d094e801b28b95e6",
+      "size_in_bytes": 990
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_3_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/infinite_loop/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/infinite_loop/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "baf697794a133564d991de64e056a2543c3446f606e0b760b5f431e0bf205b0f",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/infinite_loop/__pycache__/fake_1_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "81c7f0097d87ded536755af20b00dda95e6b75970360d193475c7bd96fd79d8b",
+      "size_in_bytes": 1575
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/infinite_loop/__pycache__/fake_2_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "7a676b53984f50cc2a105f48eb956a7d22f3c8a7436d0ca480f2c9c55823d0d9",
+      "size_in_bytes": 1580
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_1_test.py",
+      "path_type": "hardlink",
+      "sha256": "03a6db1393fd2778dda0b0aa1a218a66b23971f8d9cbb9e290147fedb687a8dc",
+      "size_in_bytes": 987
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_2_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "9751d158e5c0c77f5200743b18a29865fdcccede2df87ca597e7a5cde216e1fb",
+      "size_in_bytes": 159
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/__pycache__/fake_2_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "56329e7ca24e41ce724c1feb2f65239ffb97b4a080eb6c8ad6a748fa4e77b5ea",
+      "size_in_bytes": 1579
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/__pycache__/fake_3_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "6eba90e3ab89fafbe4605ee9694b4c3dc953afea52e3a8b5c6f8bf5e4d68738d",
+      "size_in_bytes": 1642
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/__pycache__/fake_4_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "266547a6ba905f39521d2420d29edce4f3126ac34c2c05067c496f9f1e9f380a",
+      "size_in_bytes": 1606
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_2_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_3_test.py",
+      "path_type": "hardlink",
+      "sha256": "9261de02b442a90e82b198d23716f6e9fb4496618d499ebfc56433daa8e6663a",
+      "size_in_bytes": 1034
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_4_test.py",
+      "path_type": "hardlink",
+      "sha256": "f9f3074fb062026db3fdbdfcc69099c36cbe8e334d56ac4c3b01263a37925c4c",
+      "size_in_bytes": 1030
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "5b8e1c98afffebbc16925637b1d5b2291999ea4be814b626f9c456eed886bae3",
+      "size_in_bytes": 159
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/__pycache__/fake_2_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "fcb03da1e0b1d478f199a2eb4946eae2ec876ca08fb8ba276d98773df44a6bc2",
+      "size_in_bytes": 1579
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/__pycache__/fake_3_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "7941834ccf41e453bc39ffe5cd615301c61e67ee7a50f675d66d7cfb295be7b0",
+      "size_in_bytes": 1701
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/__pycache__/fake_4_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "0d6a663a685bcf07aaeca62cbfb798f949303922d0996ae2a53387e13ebd6742",
+      "size_in_bytes": 1606
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_2_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_3_test.py",
+      "path_type": "hardlink",
+      "sha256": "4b868f488118a56b8e892281ef959c79980b244b372ea9a75aa31f6ee87ca5b0",
+      "size_in_bytes": 1092
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_4_test.py",
+      "path_type": "hardlink",
+      "sha256": "f9f3074fb062026db3fdbdfcc69099c36cbe8e334d56ac4c3b01263a37925c4c",
+      "size_in_bytes": 1030
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/run_tests__test.py",
+      "path_type": "hardlink",
+      "sha256": "fbc6decbdc972e669f79c7a1a288b7c423d2708e83b553dae69d771244641a86",
+      "size_in_bytes": 4285
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/timeout/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "f7ff302fd49cbfcfc2b3c1c9c891c6bf1d6fc1712bb2ebe5b00a8d64b709411d",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/timeout/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "24e07f19a0001146943640efdf2e29689bf3f019e7c451dbb4ddabe7be467cfb",
+      "size_in_bytes": 154
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/timeout/__pycache__/fake_2_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3734c46206b8073d0fc73c5cc08376eb51847ddb011ae61a90cd055697ac4f6c",
+      "size_in_bytes": 1574
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/timeout/__pycache__/sleep_test.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "7781278b12bb2e7e3219d04b3e06b1599ab51f3321d089e859271c1b7c5b9963",
+      "size_in_bytes": 955
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/timeout/fake_2_test.py",
+      "path_type": "hardlink",
+      "sha256": "5906d9d7603414c8288b426ff8c1927fb2bddc6282100fcdb58facdf67c53c20",
+      "size_in_bytes": 980
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/run_tests__tests/timeout/sleep_test.py",
+      "path_type": "hardlink",
+      "sha256": "7fca1aa82dbe270959003c42a9272abf73c0daf7ded820ce4e4bf879f71da3ed",
+      "size_in_bytes": 797
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/rwobject_test.py",
+      "path_type": "hardlink",
+      "sha256": "4e0e13d2f2439ed942ad29a5bf6774c828f4f5099bc59b49cd90f94b35645e98",
+      "size_in_bytes": 3865
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/scrap_tags.py",
+      "path_type": "hardlink",
+      "sha256": "679f7132f47a55987f8f13065c901084b70e0ab29cf30a8bcc5608b85082d624",
+      "size_in_bytes": 417
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/scrap_test.py",
+      "path_type": "hardlink",
+      "sha256": "44c43eb81e64c4450caf8b70bdb3f4afba6d26c1f48d815b775485a9df0e572c",
+      "size_in_bytes": 9036
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/sndarray_tags.py",
+      "path_type": "hardlink",
+      "sha256": "38a7fcb970f3e376d20b962639799ed02276477985df70967d528ac15e6feb6e",
+      "size_in_bytes": 190
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/sndarray_test.py",
+      "path_type": "hardlink",
+      "sha256": "566363ac592101f55ed30dd5c632f02eeee7aedf4979e23251603aad7661d003",
+      "size_in_bytes": 6841
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/sprite_test.py",
+      "path_type": "hardlink",
+      "sha256": "04484526551238442a360fbb37b7dfa0f89e6d9e77607a357c98b25c9175ba38",
+      "size_in_bytes": 43313
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/surface_test.py",
+      "path_type": "hardlink",
+      "sha256": "a01533a2697693b2c97484cce053461f5ad60594f2bade30f8d50e139e055277",
+      "size_in_bytes": 100140
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/surfarray_tags.py",
+      "path_type": "hardlink",
+      "sha256": "a81c71bb2446561b75d515378e937bf0f3f0c419059a85728a78f4513217e454",
+      "size_in_bytes": 260
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/surfarray_test.py",
+      "path_type": "hardlink",
+      "sha256": "c30762ea50b935014fb99aa741739d04cff158b37e1ace11b1f748926af78476",
+      "size_in_bytes": 25452
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/surflock_test.py",
+      "path_type": "hardlink",
+      "sha256": "7330550ee5576e29c9ed7d39e5c817e90dee4940ad9d94ddeaf8fa381910f4f6",
+      "size_in_bytes": 4725
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/sysfont_test.py",
+      "path_type": "hardlink",
+      "sha256": "70bee10d1b89b577cc28cbd01eaf0ec800eb8c8e43a3773968268e8c20a1835c",
+      "size_in_bytes": 798
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_test_.py",
+      "path_type": "hardlink",
+      "sha256": "61333349c088ccf9f1cc823184bbccbb1286d847cbf649566c2f3ba4ee04ae2f",
+      "size_in_bytes": 25
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "206101b013f39ee9772a2f9bebedc92d39bdccca2ce2be39f5f76e073a0a492e",
+      "size_in_bytes": 5836
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "8599f4376cd74b9a38ffb535518f5bfcb74e491fcf5ad1419f3b027ae934fa13",
+      "size_in_bytes": 6608
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/__pycache__/arrinter.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "03e667388330f8ef12fe561e376eee8077271df8b656be069b7f449a3e7dfae3",
+      "size_in_bytes": 13198
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/__pycache__/async_sub.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "205b08dad68bb0e38d81eb04252dcdf7be7eefa500c810ef57369a0d02b7b7c7",
+      "size_in_bytes": 7212
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/__pycache__/buftools.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3e05166ab731f64497ca52bec2438cfcb1ebf17a15e9e4ccfc1fabb372b07c8c",
+      "size_in_bytes": 17233
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/__pycache__/endian.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "2b91ec196c18e4da0545f216e87fc79d2f429be5ee53d474114287f13939d2ed",
+      "size_in_bytes": 626
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/__pycache__/png.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "e0930ad8041d0caa68e43e8361d2b9264b6921ce2f1e609df84c4f2e618bfb87",
+      "size_in_bytes": 123265
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/__pycache__/run_tests.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "02d962cfb7d7b69c32f188250311aca9e551c019d80e492182a04de1d190f6eb",
+      "size_in_bytes": 8871
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/__pycache__/test_machinery.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "18102587c0bd0f133c243165257fd48083e6d5bcf711525f53d55c8b1a5ef94e",
+      "size_in_bytes": 2760
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/__pycache__/test_runner.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3c91b3c55c893ebf824fa02e35f30d626b4037b60a01060a26aaf06343a73eaf",
+      "size_in_bytes": 5391
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/arrinter.py",
+      "path_type": "hardlink",
+      "sha256": "5d637fe401f2385587ad37867c2bd09f9ea352037e9b5de18c03af8d0d245cb0",
+      "size_in_bytes": 15234
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/async_sub.py",
+      "path_type": "hardlink",
+      "sha256": "e4fe87dde80c98809ae6ef377a4e2214c2bce300c505ce2992019041bc7ed946",
+      "size_in_bytes": 9109
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/buftools.py",
+      "path_type": "hardlink",
+      "sha256": "9ebca02bda2e12eef4a028b47746d20561e5bcf1fc1119c8ca3e6bd0d7882db4",
+      "size_in_bytes": 23886
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/endian.py",
+      "path_type": "hardlink",
+      "sha256": "8715d52dcfede4ff3f43945e1d7eb0b95f983c3d7e8ddb15b332c32cd68c7fb2",
+      "size_in_bytes": 493
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/png.py",
+      "path_type": "hardlink",
+      "sha256": "dd0eb3935fe80ace1c489ca66250da521df113e773a03ead82e1ce30d4a46d87",
+      "size_in_bytes": 151218
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/run_tests.py",
+      "path_type": "hardlink",
+      "sha256": "b483399cce66dc41463cb026f6d2f30c2e58311f3aa9b9f7f998f82af3c2c4b9",
+      "size_in_bytes": 12292
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/test_machinery.py",
+      "path_type": "hardlink",
+      "sha256": "b1003b1d288b6279857d60ba6bc38a918c38c5ed9ff7360b1d81ef12f27027ac",
+      "size_in_bytes": 2404
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/test_utils/test_runner.py",
+      "path_type": "hardlink",
+      "sha256": "9c5c11b7932fe4a65c11f5a1136b8516865892c328a29e60ed523d527f61931c",
+      "size_in_bytes": 7729
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/threads_test.py",
+      "path_type": "hardlink",
+      "sha256": "ce8bf6a0792d2d922b940b2f13f7cfd7c4de3d6374d235c86152c2e65b5fabfb",
+      "size_in_bytes": 5055
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/time_test.py",
+      "path_type": "hardlink",
+      "sha256": "65ff8072f2553cd323e0a354d70d68f2edb56c9a2eb803c16713f672f90c906a",
+      "size_in_bytes": 6908
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/touch_tags.py",
+      "path_type": "hardlink",
+      "sha256": "2ec1e5e2110abcd2a3bc6099582da5710f5566cbcc9856e2ca777da6b40a339e",
+      "size_in_bytes": 28
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/touch_test.py",
+      "path_type": "hardlink",
+      "sha256": "6fb4ef94d18e1a1383164ef60392097f6bf5d7c5ec274e75247ee14dc85c167d",
+      "size_in_bytes": 1198
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/transform_test.py",
+      "path_type": "hardlink",
+      "sha256": "3f26055b15306751eaa5dafb748a83ababb208c3b01e4e323a5bd601b4d44ee7",
+      "size_in_bytes": 39625
+    },
+    {
+      "_path": "Lib/site-packages/pygame/tests/version_test.py",
+      "path_type": "hardlink",
+      "sha256": "2e53bb896f5d00ad1d05dbb7ffb5f96fe5b3912140ac5fb5c32b62e0e5f48192",
+      "size_in_bytes": 1339
+    },
+    {
+      "_path": "Lib/site-packages/pygame/threads/Py25Queue.py",
+      "path_type": "hardlink",
+      "sha256": "a9d1dd9f276edbaa5f85dabb551183f23f1c14dd83758bb12265067732d6846d",
+      "size_in_bytes": 7759
+    },
+    {
+      "_path": "Lib/site-packages/pygame/threads/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "9f578aa5b632d0ac83995c545ca2e098f40bf9420997920df1ff151cfe7a0857",
+      "size_in_bytes": 8709
+    },
+    {
+      "_path": "Lib/site-packages/pygame/threads/__pycache__/Py25Queue.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "0c2e32398bb17768add25eb86979d7f549432a3354a1ca7b7a6f9bd566b21f31",
+      "size_in_bytes": 6833
+    },
+    {
+      "_path": "Lib/site-packages/pygame/threads/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "94c645ef7b5ca8cb28171fafe600ee19c63616926e6042ca40ab3b78d7d1983c",
+      "size_in_bytes": 6693
+    },
+    {
+      "_path": "Lib/site-packages/pygame/time.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "dab0fa3edca490652c32862c7fe5eca4569b7ff521069afdf44947dc02dc9b79",
+      "size_in_bytes": 17408
+    },
+    {
+      "_path": "Lib/site-packages/pygame/transform.cp37-win_amd64.pyd",
+      "path_type": "hardlink",
+      "sha256": "6273eaf3c30442e0563364c529aea7895574ae8bda4107cb703ce6523db731d4",
+      "size_in_bytes": 52224
+    },
+    {
+      "_path": "Lib/site-packages/pygame/version.py",
+      "path_type": "hardlink",
+      "sha256": "527c173375fe4359dc33a57d2e076b065c65462972e64e9f0956358ab77f3f6f",
+      "size_in_bytes": 1372
+    },
+    {
+      "_path": "Lib/site-packages/pygame/zlib1.dll",
+      "path_type": "hardlink",
+      "sha256": "180f075701186318206e2ec96048a846535b0250d0861a8ed1517c1d06f59bad",
+      "size_in_bytes": 117248
+    },
+    {
+      "_path": "include/pygame/_camera.h",
+      "path_type": "hardlink",
+      "sha256": "e1d5f4873d5235dff9c599f492ec07c3afb7a46c443ae8f55dc10d55b01eb9c8",
+      "size_in_bytes": 840
+    },
+    {
+      "_path": "include/pygame/_pygame.h",
+      "path_type": "hardlink",
+      "sha256": "129b31619669d1ed3bfecb0501db914d0e5576e3f25e6cc8dbecb55e419c1b2c",
+      "size_in_bytes": 28409
+    },
+    {
+      "_path": "include/pygame/_surface.h",
+      "path_type": "hardlink",
+      "sha256": "1ba20254d32a7770eacc1b538750711715b56ecd9f3eb3bffef701510b5bc113",
+      "size_in_bytes": 958
+    },
+    {
+      "_path": "include/pygame/bitmask.h",
+      "path_type": "hardlink",
+      "sha256": "ec52696851965cf6b9f350b7df76f539b15f4247dcea2f9b5b5227e6a8f1c2f8",
+      "size_in_bytes": 4777
+    },
+    {
+      "_path": "include/pygame/camera.h",
+      "path_type": "hardlink",
+      "sha256": "8f074ca6e552d620216cd8088d7bc270bfa7a25a9b2dd9f03656eb0a329f9f6e",
+      "size_in_bytes": 6957
+    },
+    {
+      "_path": "include/pygame/fastevents.h",
+      "path_type": "hardlink",
+      "sha256": "38a8024e21fc2b8b9dda8ad30495de179c37328d3f2266e0456e5fe544e70aa6",
+      "size_in_bytes": 1643
+    },
+    {
+      "_path": "include/pygame/font.h",
+      "path_type": "hardlink",
+      "sha256": "f7b4b626e22cb5a525c939a6b84186aff320df7121bc3259e679534db53fe8ed",
+      "size_in_bytes": 1836
+    },
+    {
+      "_path": "include/pygame/freetype.h",
+      "path_type": "hardlink",
+      "sha256": "f4ec88516bd561fa8851944d753429bd5cdd1f65bbc76d728c8b6475cec6419a",
+      "size_in_bytes": 4175
+    },
+    {
+      "_path": "include/pygame/mask.h",
+      "path_type": "hardlink",
+      "sha256": "a4a08ca4e2d1045e0ac6717e73db21ad43c56cb6ebebe2ea0e51171e6fc8c2f3",
+      "size_in_bytes": 620
+    },
+    {
+      "_path": "include/pygame/mixer.h",
+      "path_type": "hardlink",
+      "sha256": "86be4d78ba212d3fe58d7e8571e30d2bfd74012ac82a12320122b6615b6fba9a",
+      "size_in_bytes": 2258
+    },
+    {
+      "_path": "include/pygame/palette.h",
+      "path_type": "hardlink",
+      "sha256": "773011608b1074701a57cca90ab41b6115858ac5d85c0043e13a0c97360aa238",
+      "size_in_bytes": 7057
+    },
+    {
+      "_path": "include/pygame/pgarrinter.h",
+      "path_type": "hardlink",
+      "sha256": "6a5b30ee9e97eee90e075a3772eaf2ae358e7061e05424200af4b50fd16d8917",
+      "size_in_bytes": 1060
+    },
+    {
+      "_path": "include/pygame/pgbufferproxy.h",
+      "path_type": "hardlink",
+      "sha256": "85c01efa68a93180b884d2fdc48615070838028b78c35aa98adf386669269eac",
+      "size_in_bytes": 1961
+    },
+    {
+      "_path": "include/pygame/pgcompat.h",
+      "path_type": "hardlink",
+      "sha256": "1c55223e591ccd790fdc18e9bf3eb4896f49883e8b299f0be2ab760cbe4a7dc3",
+      "size_in_bytes": 5927
+    },
+    {
+      "_path": "include/pygame/pgopengl.h",
+      "path_type": "hardlink",
+      "sha256": "85b358b5c254de3c66bee6c3f3dd1d852484d8a8f32125d3efa3c9720b8a574e",
+      "size_in_bytes": 379
+    },
+    {
+      "_path": "include/pygame/pygame.h",
+      "path_type": "hardlink",
+      "sha256": "f74b57fa0bdaa5416fd3bedcdd9db6c7caf5ec30746e63187d0eda76ec4e2877",
+      "size_in_bytes": 1246
+    },
+    {
+      "_path": "include/pygame/scrap.h",
+      "path_type": "hardlink",
+      "sha256": "321752acc7e545d04d9f07a6366d4eb3992043eb54f6b1a4e72377aa8309cdae",
+      "size_in_bytes": 4594
+    },
+    {
+      "_path": "include/pygame/surface.h",
+      "path_type": "hardlink",
+      "sha256": "81bb48e0dbaa62b56dcb48892d780fc1cffbb508ed472d452601d0f9b09e16e2",
+      "size_in_bytes": 14554
+    }
+  ],
+  "paths_version": 1
+}

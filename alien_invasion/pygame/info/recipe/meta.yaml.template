@@ -1,0 +1,13 @@
+package:
+    name: "pygame"
+    version: "1.9.5"
+
+requirements:
+    run:
+        - python
+    build:
+        - python
+        - pip
+        - setuptools
+        - wheel
+
