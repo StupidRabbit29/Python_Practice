@@ -38,17 +38,19 @@ def check_events(ai_settings, screen, stats, sb, play_button, ship, aliens, bull
             mouse_x, mouse_y = pygame.mouse.get_pos()
             check_play_button(ai_settings, screen, stats, sb, play_button, ship, aliens, bullets, mouse_x, mouse_y)
 
+
 def update_screen(ai_settings, screen, stats, sb, ship, aliens, bullets, play_button):
     """更新屏幕上的图像，并切换到新屏幕"""
     #每次循环重绘屏幕
     screen.fill(ai_settings.bg_color)
-    #在飞船和外星人后面重绘所有子弹
-    for bullet in bullets.sprites():
-        bullet.draw_bullet()
-
+    
     ship.blitme()
     aliens.draw(screen)
 
+    #在飞船和外星人后面重绘所有子弹
+    for bullet in bullets.sprites():
+        bullet.draw_bullet()
+        
     #显示得分
     sb.show_score()
 
@@ -109,6 +111,12 @@ def get_number_rows(ai_settings, ship_height, alien_height):
     number_rows = int(available_space_y / (2 * alien_height))
     return number_rows
 
+def get_number_aliens_x(ai_settings, alien_width):
+    """计算每行可以容纳多少个外星人"""
+    available_space_x = ai_settings.screen_width - 2 * alien_width
+    number_aliens_x = int(available_space_x / (2 * alien_width))
+    return number_aliens_x
+
 def create_alien(ai_settings, screen, aliens, alien_number, row_number):
     #创建一个外星人并将其加入当前行
     alien = Alien(ai_settings, screen)
@@ -136,11 +144,6 @@ def create_fleet(ai_settings, screen, ship, aliens):
             else:
                 break
 
-def get_number_aliens_x(ai_settings, alien_width):
-    """计算每行可以容纳多少个外星人"""
-    available_space_x = ai_settings.screen_width - 2 * alien_width
-    number_aliens_x = int(available_space_x / (2 * alien_width))
-    return number_aliens_x
 
 def check_fleet_edges(ai_settings, aliens):
     """有外星人到达边缘时采取相应的措施"""

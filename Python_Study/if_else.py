@@ -1,10 +1,11 @@
-#print absolute value of an integer
+import numpy
+print absolute value of an integer
 
-# a=100
-# if a>=0:
-#     print(a)
-# else:
-#     print(-a)
+a=100
+if a>=0:
+    print(a)
+else:
+    print(-a)
     
 print('Please input your age!')
 s=input('age:')
@@ -17,3 +18,7 @@ elif age<=60:
     print('Adult')
 else:
     print('Old')
+
+if (1 <= s <= 200):
+    print('OK')
+
