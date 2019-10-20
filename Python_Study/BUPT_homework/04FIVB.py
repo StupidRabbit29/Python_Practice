@@ -1,4 +1,3 @@
-import pandas
 round = int(input())
 score = 0
 while round != 0:
