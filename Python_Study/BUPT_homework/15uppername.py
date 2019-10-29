@@ -11,6 +11,7 @@ while number != 0:
 
 
 books = sorted(books, key=lambda x: "".join((Counter(x) & Counter(x.upper())).keys()))
+# 上面这种方法样例可以通过，但是提交结果为答案错误
 books = sorted(books, key=lambda x: (re.sub(u"[^\u0041-\u005a]", "", x)))
 
 for book in books:
