@@ -2,7 +2,7 @@
 
 import cv2
 import sys
-from PIL import Image
+# from PIL import Image
 
 
 def CatchUsbVideo(window_name, camera_idx):
@@ -16,13 +16,13 @@ def CatchUsbVideo(window_name, camera_idx):
         if not ok:
             break
 
-            # 显示图像并等待10毫秒按键输入，输入‘q’退出程序
+        # 显示图像并等待10毫秒按键输入，输入‘q’退出程序
         cv2.imshow(window_name, frame)
         c = cv2.waitKey(10)
         if c & 0xFF == ord('q'):
             break
 
-            # 释放摄像头并销毁所有窗口
+    # 释放摄像头并销毁所有窗口
     cap.release()
     cv2.destroyAllWindows()
 
