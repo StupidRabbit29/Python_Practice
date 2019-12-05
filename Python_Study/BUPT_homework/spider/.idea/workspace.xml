@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="664b039b-fd79-436e-aee6-7e5a6567a9eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Preprocess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Preprocess/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Preprocess/BJ_smog.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Preprocess/BJ_smog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lianjia/MyData.json" beforeDir="false" afterPath="$PROJECT_DIR$/lianjia/MyData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lianjia/lianjia/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/lianjia/lianjia/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lianjia/lianjia/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/lianjia/lianjia/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lianjia/lianjia/spiders/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/lianjia/lianjia/spiders/spider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../SiamMask" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SiamMask" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,14 +20,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lianjia/lianjia/spiders/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="150">
+              <caret line="5" column="38" lean-forward="true" selection-end-line="92" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianjia/MyData.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1313">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianjia/lianjia/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lianjia/lianjia/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" column="79" lean-forward="true" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+              <folding>
+                <element signature="e#194#205#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianjia/lianjia/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1811">
+              <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -33,12 +80,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test1/MyData.json" />
-        <option value="$PROJECT_DIR$/lianjia/lianjia/spiders/spider.py" />
         <option value="$PROJECT_DIR$/test1/test1/spiders/spider.py" />
+        <option value="$PROJECT_DIR$/lianjia/lianjia/items.py" />
+        <option value="$PROJECT_DIR$/lianjia/lianjia/pipelines.py" />
+        <option value="$PROJECT_DIR$/lianjia/lianjia/spiders/spider.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="976" />
@@ -84,7 +133,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Data Preprocess" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lianjia/begin.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -103,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spider">
+  <component name="RunManager" selected="Python.spider (3)">
     <configuration name="spider (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,6 +175,27 @@
       <method v="2" />
     </configuration>
     <configuration name="spider (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lianjia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianjia/begin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,9 +241,11 @@
       <item itemvalue="Python.spider" />
       <item itemvalue="Python.spider (1)" />
       <item itemvalue="Python.spider (2)" />
+      <item itemvalue="Python.spider (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.spider (3)" />
         <item itemvalue="Python.spider" />
         <item itemvalue="Python.spider (2)" />
         <item itemvalue="Python.spider (1)" />
@@ -211,15 +283,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10642782" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10642782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31561822" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31561822" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -236,17 +308,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="爬虫修改" />
     <option name="LAST_COMMIT_MESSAGE" value="爬虫修改" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lianjia/lianjia/spiders/spider.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lianjia/scrapy.cfg">
@@ -294,27 +355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lianjia/lianjia/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="91" selection-start-line="91" selection-end-line="91" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lianjia/lianjia/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" selection-start-line="10" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lianjia/lianjia/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" selection-start-line="7" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test1/test1/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-360" />
@@ -334,29 +374,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lianjia/MyData.json">
+    <entry file="file://$PROJECT_DIR$/lianjia/lianjia/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
-        </state>
+        <state relative-caret-position="-2398" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test1/test1/spiders/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="65" />
+        <state relative-caret-position="341">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia/MyData.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia/lianjia/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1811">
+          <caret line="91" column="25" selection-start-line="91" selection-start-column="25" selection-end-line="91" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia/lianjia/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia/MyData.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1313">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lianjia/lianjia/spiders/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="150">
+          <caret line="5" column="38" lean-forward="true" selection-end-line="92" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia/lianjia/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="79" lean-forward="true" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+          <folding>
+            <element signature="e#194#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
